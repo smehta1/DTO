@@ -1,0 +1,924 @@
+<?xml version="1.0"?>
+
+
+<!DOCTYPE rdf:RDF [
+    <!ENTITY owl "http://www.w3.org/2002/07/owl#" >
+    <!ENTITY xsd "http://www.w3.org/2001/XMLSchema#" >
+    <!ENTITY rdfs "http://www.w3.org/2000/01/rdf-schema#" >
+    <!ENTITY dto "http://www.drugtargetontology.org/dto#" >
+    <!ENTITY rdf "http://www.w3.org/1999/02/22-rdf-syntax-ns#" >
+]>
+
+
+<rdf:RDF xmlns="http://www.drugtargetontology.org/dto/nh_module#"
+     xml:base="http://www.drugtargetontology.org/dto/nh_module"
+     xmlns:dto="http://www.drugtargetontology.org/dto#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+    <owl:Ontology rdf:about="http://www.drugtargetontology.org/dto/nh_module"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    <owl:AnnotationProperty rdf:about="http://www.drugtargetontology.org/dto/nh_module#geneSynonyms"/>
+    <owl:AnnotationProperty rdf:about="http://www.drugtargetontology.org/dto/nh_module#symbol"/>
+    <owl:AnnotationProperty rdf:about="http://www.drugtargetontology.org/dto/nh_module#definition"/>
+    <owl:AnnotationProperty rdf:about="http://www.drugtargetontology.org/dto/nh_module#uniprot_xref"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Datatypes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.drugtargetontology.org/dto#DTO_000100 -->
+
+    <owl:Class rdf:about="&dto;DTO_000100"/>
+    
+
+
+    <!-- http://www.drugtargetontology.org/dto#DTO_0017459 -->
+
+    <owl:Class rdf:about="&dto;DTO_0017459">
+        <rdfs:label>dax-like receptors</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&dto;DTO_002000"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.drugtargetontology.org/dto#DTO_0017460 -->
+
+    <owl:Class rdf:about="&dto;DTO_0017460">
+        <rdfs:label>thyroid hormone receptors</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&dto;DTO_002000"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.drugtargetontology.org/dto#DTO_0017461 -->
+
+    <owl:Class rdf:about="&dto;DTO_0017461">
+        <rdfs:label>retinoic acid receptors</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&dto;DTO_002000"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.drugtargetontology.org/dto#DTO_0017462 -->
+
+    <owl:Class rdf:about="&dto;DTO_0017462">
+        <rdfs:label>peroxisome proliferator-activated receptors</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&dto;DTO_002000"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.drugtargetontology.org/dto#DTO_0017463 -->
+
+    <owl:Class rdf:about="&dto;DTO_0017463">
+        <rdfs:label>rev-erb receptors</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&dto;DTO_002000"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.drugtargetontology.org/dto#DTO_0017464 -->
+
+    <owl:Class rdf:about="&dto;DTO_0017464">
+        <rdfs:label>retinoic acid-related orphans</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&dto;DTO_002000"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.drugtargetontology.org/dto#DTO_0017465 -->
+
+    <owl:Class rdf:about="&dto;DTO_0017465">
+        <rdfs:label>liver x receptor-like receptors</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&dto;DTO_002000"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.drugtargetontology.org/dto#DTO_0017466 -->
+
+    <owl:Class rdf:about="&dto;DTO_0017466">
+        <rdfs:label>vitamin d receptor-like receptors</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&dto;DTO_002000"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.drugtargetontology.org/dto#DTO_0017467 -->
+
+    <owl:Class rdf:about="&dto;DTO_0017467">
+        <rdfs:label>hepatocyte nuclear factor-4 receptors</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&dto;DTO_002000"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.drugtargetontology.org/dto#DTO_0017468 -->
+
+    <owl:Class rdf:about="&dto;DTO_0017468">
+        <rdfs:label>retinoid x receptors</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&dto;DTO_002000"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.drugtargetontology.org/dto#DTO_0017469 -->
+
+    <owl:Class rdf:about="&dto;DTO_0017469">
+        <rdfs:label>testicular receptors</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&dto;DTO_002000"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.drugtargetontology.org/dto#DTO_0017470 -->
+
+    <owl:Class rdf:about="&dto;DTO_0017470">
+        <rdfs:label>tailless-like receptors</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&dto;DTO_002000"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.drugtargetontology.org/dto#DTO_0017471 -->
+
+    <owl:Class rdf:about="&dto;DTO_0017471">
+        <rdfs:label>coup-tf-like receptors</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&dto;DTO_002000"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.drugtargetontology.org/dto#DTO_0017472 -->
+
+    <owl:Class rdf:about="&dto;DTO_0017472">
+        <rdfs:label>estrogen receptors</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&dto;DTO_002000"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.drugtargetontology.org/dto#DTO_0017473 -->
+
+    <owl:Class rdf:about="&dto;DTO_0017473">
+        <rdfs:label>estrogen-related receptors</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&dto;DTO_002000"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.drugtargetontology.org/dto#DTO_0017474 -->
+
+    <owl:Class rdf:about="&dto;DTO_0017474">
+        <rdfs:label>3-ketosteroid receptors</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&dto;DTO_002000"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.drugtargetontology.org/dto#DTO_0017475 -->
+
+    <owl:Class rdf:about="&dto;DTO_0017475">
+        <rdfs:label>nerve growth factor ib-like receptors</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&dto;DTO_002000"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.drugtargetontology.org/dto#DTO_0017476 -->
+
+    <owl:Class rdf:about="&dto;DTO_0017476">
+        <rdfs:label>fushi tarazu f1-like receptors</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&dto;DTO_002000"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.drugtargetontology.org/dto#DTO_0017477 -->
+
+    <owl:Class rdf:about="&dto;DTO_0017477">
+        <rdfs:label>germ cell nuclear factor receptors</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&dto;DTO_002000"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.drugtargetontology.org/dto#DTO_0017478 -->
+
+    <owl:Class rdf:about="&dto;DTO_0017478">
+        <rdfs:label>nuclear receptor subfamily 0 group b member 1</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&dto;DTO_0017459"/>
+        <symbol>NR0B1</symbol>
+        <definition>A protein that is a translation product of the human NR0B1 gene or a 1:1 ortholog thereof. </definition>
+        <geneSynonyms>AHC</geneSynonyms>
+        <uniprot_xref>P51843</uniprot_xref>
+        <geneSynonyms>DAX1</geneSynonyms>
+    </owl:Class>
+    
+
+
+    <!-- http://www.drugtargetontology.org/dto#DTO_0017479 -->
+
+    <owl:Class rdf:about="&dto;DTO_0017479">
+        <rdfs:label>nuclear receptor subfamily 0 group b member 2</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&dto;DTO_0017459"/>
+        <geneSynonyms>SHP</geneSynonyms>
+        <uniprot_xref>Q15466</uniprot_xref>
+        <symbol>NR0B2</symbol>
+        <definition>A protein that is a translation product of the human NR0B2 gene or a 1:1 ortholog thereof. </definition>
+    </owl:Class>
+    
+
+
+    <!-- http://www.drugtargetontology.org/dto#DTO_0017480 -->
+
+    <owl:Class rdf:about="&dto;DTO_0017480">
+        <rdfs:label>thyroid hormone receptor alpha</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&dto;DTO_0017460"/>
+        <uniprot_xref>P10827</uniprot_xref>
+        <definition>A protein that is a translation product of the human THRA gene or a 1:1 ortholog thereof. [MGI:98742, PRO:HJD] </definition>
+        <geneSynonyms>THRA2</geneSynonyms>
+        <geneSynonyms>ERBA1</geneSynonyms>
+        <symbol>THRA</symbol>
+        <geneSynonyms>THRA1</geneSynonyms>
+        <geneSynonyms>EAR7</geneSynonyms>
+        <geneSynonyms>NR1A1</geneSynonyms>
+    </owl:Class>
+    
+
+
+    <!-- http://www.drugtargetontology.org/dto#DTO_0017481 -->
+
+    <owl:Class rdf:about="&dto;DTO_0017481">
+        <rdfs:label>thyroid hormone receptor beta</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&dto;DTO_0017460"/>
+        <geneSynonyms>THR1</geneSynonyms>
+        <uniprot_xref>P10828</uniprot_xref>
+        <symbol>THRB</symbol>
+        <geneSynonyms>NR1A2</geneSynonyms>
+        <definition>A protein that is a translation product of the human THRB gene or a 1:1 ortholog thereof. </definition>
+        <geneSynonyms>ERBA2</geneSynonyms>
+    </owl:Class>
+    
+
+
+    <!-- http://www.drugtargetontology.org/dto#DTO_0017482 -->
+
+    <owl:Class rdf:about="&dto;DTO_0017482">
+        <rdfs:label>retinoic acid receptor alpha</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&dto;DTO_0017461"/>
+        <symbol>RARA</symbol>
+        <uniprot_xref>P10276</uniprot_xref>
+        <definition>A protein that is a translation product of the human RARA gene or a 1:1 ortholog thereof. </definition>
+        <geneSynonyms>NR1B1</geneSynonyms>
+    </owl:Class>
+    
+
+
+    <!-- http://www.drugtargetontology.org/dto#DTO_0017483 -->
+
+    <owl:Class rdf:about="&dto;DTO_0017483">
+        <rdfs:label>retinoic acid receptor beta</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&dto;DTO_0017461"/>
+        <geneSynonyms>HAP</geneSynonyms>
+        <definition>A protein that is a translation product of the human RARB gene or a 1:1 ortholog thereof. </definition>
+        <uniprot_xref>P10826</uniprot_xref>
+        <geneSynonyms>NR1B2</geneSynonyms>
+        <symbol>RARB</symbol>
+    </owl:Class>
+    
+
+
+    <!-- http://www.drugtargetontology.org/dto#DTO_0017484 -->
+
+    <owl:Class rdf:about="&dto;DTO_0017484">
+        <rdfs:label>retinoic acid receptor gamma</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&dto;DTO_0017461"/>
+        <symbol>RARG</symbol>
+        <uniprot_xref>P13631</uniprot_xref>
+        <geneSynonyms>NR1B3</geneSynonyms>
+        <definition>A protein that is a translation product of the human RARG gene or a 1:1 ortholog thereof. </definition>
+    </owl:Class>
+    
+
+
+    <!-- http://www.drugtargetontology.org/dto#DTO_0017485 -->
+
+    <owl:Class rdf:about="&dto;DTO_0017485">
+        <rdfs:label>peroxisome proliferator-activated receptor alpha</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&dto;DTO_0017462"/>
+        <geneSynonyms>NR1C1</geneSynonyms>
+        <definition>A protein that is a translation product of the human PPARA gene or a 1:1 ortholog thereof. </definition>
+        <geneSynonyms>PPAR</geneSynonyms>
+        <uniprot_xref>Q07869</uniprot_xref>
+        <symbol>PPARA</symbol>
+    </owl:Class>
+    
+
+
+    <!-- http://www.drugtargetontology.org/dto#DTO_0017486 -->
+
+    <owl:Class rdf:about="&dto;DTO_0017486">
+        <rdfs:label>peroxisome proliferator-activated receptor delta</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&dto;DTO_0017462"/>
+        <geneSynonyms>PPARB</geneSynonyms>
+        <geneSynonyms>NR1C2</geneSynonyms>
+        <definition>A protein that is a translation product of the human PPARD gene or a 1:1 ortholog thereof. </definition>
+        <uniprot_xref>Q03181</uniprot_xref>
+        <symbol>PPARD</symbol>
+    </owl:Class>
+    
+
+
+    <!-- http://www.drugtargetontology.org/dto#DTO_0017487 -->
+
+    <owl:Class rdf:about="&dto;DTO_0017487">
+        <rdfs:label>peroxisome proliferator-activated receptor gamma</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&dto;DTO_0017462"/>
+        <geneSynonyms>NR1C3</geneSynonyms>
+        <definition>A protein that is a translation product of the human PPARG gene or a 1:1 ortholog thereof. </definition>
+        <uniprot_xref>P37231</uniprot_xref>
+        <symbol>PPARG</symbol>
+    </owl:Class>
+    
+
+
+    <!-- http://www.drugtargetontology.org/dto#DTO_0017488 -->
+
+    <owl:Class rdf:about="&dto;DTO_0017488">
+        <rdfs:label>nuclear receptor subfamily 1 group d member 1</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&dto;DTO_0017463"/>
+        <symbol>NR1D1</symbol>
+        <geneSynonyms>HREV</geneSynonyms>
+        <geneSynonyms>EAR1</geneSynonyms>
+        <geneSynonyms>THRAL</geneSynonyms>
+        <definition>A protein that is a translation product of the human NR1D1 gene or a 1:1 ortholog thereof. </definition>
+        <uniprot_xref>P20393</uniprot_xref>
+    </owl:Class>
+    
+
+
+    <!-- http://www.drugtargetontology.org/dto#DTO_0017489 -->
+
+    <owl:Class rdf:about="&dto;DTO_0017489">
+        <rdfs:label>nuclear receptor subfamily 1 group d member 2</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&dto;DTO_0017463"/>
+        <symbol>NR1D2</symbol>
+        <uniprot_xref>Q14995</uniprot_xref>
+        <definition>A protein that is a translation product of the human NR1D2 gene or a 1:1 ortholog thereof. </definition>
+    </owl:Class>
+    
+
+
+    <!-- http://www.drugtargetontology.org/dto#DTO_0017490 -->
+
+    <owl:Class rdf:about="&dto;DTO_0017490">
+        <rdfs:label>nuclear receptor ror-alpha</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&dto;DTO_0017464"/>
+        <uniprot_xref>P35398</uniprot_xref>
+        <geneSynonyms>NR1F1</geneSynonyms>
+        <symbol>RORA</symbol>
+        <geneSynonyms>RZRA</geneSynonyms>
+        <definition>A protein that is a translation product of the human RORA gene or a 1:1 ortholog thereof. </definition>
+    </owl:Class>
+    
+
+
+    <!-- http://www.drugtargetontology.org/dto#DTO_0017491 -->
+
+    <owl:Class rdf:about="&dto;DTO_0017491">
+        <rdfs:label>nuclear receptor ror-beta</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&dto;DTO_0017464"/>
+        <symbol>RORB</symbol>
+        <geneSynonyms>NR1F2</geneSynonyms>
+        <definition>A protein that is a translation product of the human RORB gene or a 1:1 ortholog thereof. </definition>
+        <uniprot_xref>Q92753</uniprot_xref>
+        <geneSynonyms>RZRB</geneSynonyms>
+    </owl:Class>
+    
+
+
+    <!-- http://www.drugtargetontology.org/dto#DTO_0017492 -->
+
+    <owl:Class rdf:about="&dto;DTO_0017492">
+        <rdfs:label>nuclear receptor ror-gamma</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&dto;DTO_0017464"/>
+        <geneSynonyms>NR1F3</geneSynonyms>
+        <symbol>RORC</symbol>
+        <uniprot_xref>P51449</uniprot_xref>
+        <definition>A protein that is a translation product of the human RORC gene or a 1:1 ortholog thereof. [PRO:WCB] </definition>
+        <geneSynonyms>RORG</geneSynonyms>
+        <geneSynonyms>RZRG</geneSynonyms>
+    </owl:Class>
+    
+
+
+    <!-- http://www.drugtargetontology.org/dto#DTO_0017493 -->
+
+    <owl:Class rdf:about="&dto;DTO_0017493">
+        <rdfs:label>bile acid receptor</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&dto;DTO_0017465"/>
+        <geneSynonyms>FXR</geneSynonyms>
+        <geneSynonyms>RIP14</geneSynonyms>
+        <geneSynonyms>BAR</geneSynonyms>
+        <symbol>NR1H4</symbol>
+        <uniprot_xref>Q96RI1</uniprot_xref>
+        <geneSynonyms>HRR1</geneSynonyms>
+        <definition>A protein that is a translation product of the human NR1H4 gene or a 1:1 ortholog thereof. </definition>
+    </owl:Class>
+    
+
+
+    <!-- http://www.drugtargetontology.org/dto#DTO_0017494 -->
+
+    <owl:Class rdf:about="&dto;DTO_0017494">
+        <rdfs:label>oxysterols receptor lxr-alpha</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&dto;DTO_0017465"/>
+        <uniprot_xref>Q13133</uniprot_xref>
+        <geneSynonyms>LXRA</geneSynonyms>
+        <symbol>NR1H3</symbol>
+        <definition>A protein that is a translation product of the human NR1H3 gene or a 1:1 ortholog thereof. </definition>
+    </owl:Class>
+    
+
+
+    <!-- http://www.drugtargetontology.org/dto#DTO_0017495 -->
+
+    <owl:Class rdf:about="&dto;DTO_0017495">
+        <rdfs:label>oxysterols receptor lxr-beta</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&dto;DTO_0017465"/>
+        <symbol>NR1H2</symbol>
+        <uniprot_xref>P55055</uniprot_xref>
+        <geneSynonyms>NER</geneSynonyms>
+        <geneSynonyms>LXRB</geneSynonyms>
+        <geneSynonyms>UNR</geneSynonyms>
+        <definition>A protein that is a translation product of the human NR1H2 gene or a 1:1 ortholog thereof. </definition>
+    </owl:Class>
+    
+
+
+    <!-- http://www.drugtargetontology.org/dto#DTO_0017496 -->
+
+    <owl:Class rdf:about="&dto;DTO_0017496">
+        <rdfs:label>vitamin d3 receptor</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&dto;DTO_0017466"/>
+        <definition>A protein that is a translation product of the human VDR gene or a 1:1 ortholog thereof. </definition>
+        <geneSynonyms>NR1I1</geneSynonyms>
+        <symbol>VDR</symbol>
+        <uniprot_xref>P11473</uniprot_xref>
+    </owl:Class>
+    
+
+
+    <!-- http://www.drugtargetontology.org/dto#DTO_0017497 -->
+
+    <owl:Class rdf:about="&dto;DTO_0017497">
+        <rdfs:label>nuclear receptor subfamily 1 group i member 2</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&dto;DTO_0017466"/>
+        <geneSynonyms>PXR</geneSynonyms>
+        <definition>A protein that is a translation product of the human NR1I2 gene or a 1:1 ortholog thereof. </definition>
+        <uniprot_xref>O75469</uniprot_xref>
+        <symbol>NR1I2</symbol>
+    </owl:Class>
+    
+
+
+    <!-- http://www.drugtargetontology.org/dto#DTO_0017498 -->
+
+    <owl:Class rdf:about="&dto;DTO_0017498">
+        <rdfs:label>nuclear receptor subfamily 1 group i member 3</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&dto;DTO_0017466"/>
+        <uniprot_xref>Q14994</uniprot_xref>
+        <symbol>NR1I3</symbol>
+        <geneSynonyms>CAR</geneSynonyms>
+        <definition>A protein that is a translation product of the human NR1I3 gene or a 1:1 ortholog thereof. </definition>
+    </owl:Class>
+    
+
+
+    <!-- http://www.drugtargetontology.org/dto#DTO_0017499 -->
+
+    <owl:Class rdf:about="&dto;DTO_0017499">
+        <rdfs:label>hepatocyte nuclear factor 4-alpha</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&dto;DTO_0017467"/>
+        <geneSynonyms>HNF4</geneSynonyms>
+        <uniprot_xref>P41235</uniprot_xref>
+        <geneSynonyms>TCF14</geneSynonyms>
+        <geneSynonyms>NR2A1</geneSynonyms>
+        <definition>A protein that is a translation product of the human HNF4A gene or a 1:1 ortholog thereof. </definition>
+        <symbol>HNF4A</symbol>
+    </owl:Class>
+    
+
+
+    <!-- http://www.drugtargetontology.org/dto#DTO_0017500 -->
+
+    <owl:Class rdf:about="&dto;DTO_0017500">
+        <rdfs:label>hepatocyte nuclear factor 4-gamma</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&dto;DTO_0017467"/>
+        <symbol>HNF4G</symbol>
+        <geneSynonyms>NR2A2</geneSynonyms>
+        <uniprot_xref>Q14541</uniprot_xref>
+        <definition>A protein that is a translation product of the human HNF4G gene or a 1:1 ortholog thereof. </definition>
+    </owl:Class>
+    
+
+
+    <!-- http://www.drugtargetontology.org/dto#DTO_0017501 -->
+
+    <owl:Class rdf:about="&dto;DTO_0017501">
+        <rdfs:label>retinoic acid receptor rxr-alpha</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&dto;DTO_0017468"/>
+        <symbol>RXRA</symbol>
+        <uniprot_xref>P19793</uniprot_xref>
+        <definition>A protein that is a translation product of the human RXRA gene or a 1:1 ortholog thereof. </definition>
+        <geneSynonyms>NR2B1</geneSynonyms>
+    </owl:Class>
+    
+
+
+    <!-- http://www.drugtargetontology.org/dto#DTO_0017502 -->
+
+    <owl:Class rdf:about="&dto;DTO_0017502">
+        <rdfs:label>retinoic acid receptor rxr-beta</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&dto;DTO_0017468"/>
+        <geneSynonyms>NR2B2</geneSynonyms>
+        <symbol>RXRB</symbol>
+        <uniprot_xref>P28702</uniprot_xref>
+        <definition>A protein that is a translation product of the human RXRB gene or a 1:1 ortholog thereof. </definition>
+    </owl:Class>
+    
+
+
+    <!-- http://www.drugtargetontology.org/dto#DTO_0017503 -->
+
+    <owl:Class rdf:about="&dto;DTO_0017503">
+        <rdfs:label>retinoic acid receptor rxr-gamma</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&dto;DTO_0017468"/>
+        <symbol>RXRG</symbol>
+        <uniprot_xref>P48443</uniprot_xref>
+        <definition>A protein that is a translation product of the human RXRG gene or a 1:1 ortholog thereof. </definition>
+        <geneSynonyms>NR2B3</geneSynonyms>
+    </owl:Class>
+    
+
+
+    <!-- http://www.drugtargetontology.org/dto#DTO_0017504 -->
+
+    <owl:Class rdf:about="&dto;DTO_0017504">
+        <rdfs:label>nuclear receptor subfamily 2 group c member 1</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&dto;DTO_0017469"/>
+        <uniprot_xref>P13056</uniprot_xref>
+        <geneSynonyms>TR2</geneSynonyms>
+        <symbol>NR2C1</symbol>
+        <definition>A protein that is a translation product of the human NR2C1 gene or a 1:1 ortholog thereof. </definition>
+    </owl:Class>
+    
+
+
+    <!-- http://www.drugtargetontology.org/dto#DTO_0017505 -->
+
+    <owl:Class rdf:about="&dto;DTO_0017505">
+        <rdfs:label>nuclear receptor subfamily 2 group c member 2</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&dto;DTO_0017469"/>
+        <definition>A protein that is a translation product of the human NR2C2 gene or a 1:1 ortholog thereof. </definition>
+        <uniprot_xref>P49116</uniprot_xref>
+        <symbol>NR2C2</symbol>
+        <geneSynonyms>TR4</geneSynonyms>
+        <geneSynonyms>TAK1</geneSynonyms>
+    </owl:Class>
+    
+
+
+    <!-- http://www.drugtargetontology.org/dto#DTO_0017506 -->
+
+    <owl:Class rdf:about="&dto;DTO_0017506">
+        <rdfs:label>nuclear receptor subfamily 2 group e member 1</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&dto;DTO_0017470"/>
+        <geneSynonyms>TLX</geneSynonyms>
+        <symbol>NR2E1</symbol>
+        <uniprot_xref>Q9Y466</uniprot_xref>
+        <definition>A protein that is a translation product of the human NR2E1 gene or a 1:1 ortholog thereof. </definition>
+    </owl:Class>
+    
+
+
+    <!-- http://www.drugtargetontology.org/dto#DTO_0017507 -->
+
+    <owl:Class rdf:about="&dto;DTO_0017507">
+        <rdfs:label>photoreceptor-specific nuclear receptor</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&dto;DTO_0017470"/>
+        <symbol>NR2E3</symbol>
+        <definition>A protein that is a translation product of the human NR2E3 gene or a 1:1 ortholog thereof. </definition>
+        <geneSynonyms>RNR</geneSynonyms>
+        <uniprot_xref>Q9Y5X4</uniprot_xref>
+        <geneSynonyms>PNR</geneSynonyms>
+    </owl:Class>
+    
+
+
+    <!-- http://www.drugtargetontology.org/dto#DTO_0017508 -->
+
+    <owl:Class rdf:about="&dto;DTO_0017508">
+        <rdfs:label>coup transcription factor 1</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&dto;DTO_0017471"/>
+        <geneSynonyms>EAR3</geneSynonyms>
+        <symbol>NR2F1</symbol>
+        <geneSynonyms>ERBAL3</geneSynonyms>
+        <definition>A protein that is a translation product of the human NR2F1 gene or a 1:1 ortholog thereof. </definition>
+        <uniprot_xref>P10589</uniprot_xref>
+        <geneSynonyms>TFCOUP1</geneSynonyms>
+    </owl:Class>
+    
+
+
+    <!-- http://www.drugtargetontology.org/dto#DTO_0017509 -->
+
+    <owl:Class rdf:about="&dto;DTO_0017509">
+        <rdfs:label>coup transcription factor 2</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&dto;DTO_0017471"/>
+        <geneSynonyms>TFCOUP2</geneSynonyms>
+        <definition>A protein that is a translation product of the human NR2F2 gene or a 1:1 ortholog thereof. </definition>
+        <geneSynonyms>ARP1</geneSynonyms>
+        <symbol>NR2F2</symbol>
+        <uniprot_xref>P24468</uniprot_xref>
+    </owl:Class>
+    
+
+
+    <!-- http://www.drugtargetontology.org/dto#DTO_0017510 -->
+
+    <owl:Class rdf:about="&dto;DTO_0017510">
+        <rdfs:label>nuclear receptor subfamily 2 group f member 6</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&dto;DTO_0017471"/>
+        <geneSynonyms>EAR2</geneSynonyms>
+        <definition>A protein that is a translation product of the human NR2F6 gene or a 1:1 ortholog thereof. </definition>
+        <symbol>NR2F6</symbol>
+        <geneSynonyms>ERBAL2</geneSynonyms>
+        <uniprot_xref>P10588</uniprot_xref>
+    </owl:Class>
+    
+
+
+    <!-- http://www.drugtargetontology.org/dto#DTO_0017511 -->
+
+    <owl:Class rdf:about="&dto;DTO_0017511">
+        <rdfs:label>estrogen receptor</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&dto;DTO_0017472"/>
+        <geneSynonyms>NR3A1</geneSynonyms>
+        <symbol>ESR1</symbol>
+        <definition>A protein that is a translation product of the human ESR1 gene or a 1:1 ortholog thereof. </definition>
+        <uniprot_xref>P03372</uniprot_xref>
+        <geneSynonyms>ESR</geneSynonyms>
+    </owl:Class>
+    
+
+
+    <!-- http://www.drugtargetontology.org/dto#DTO_0017512 -->
+
+    <owl:Class rdf:about="&dto;DTO_0017512">
+        <rdfs:label>estrogen receptor beta</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&dto;DTO_0017472"/>
+        <symbol>ESR2</symbol>
+        <geneSynonyms>ESTRB</geneSynonyms>
+        <uniprot_xref>Q92731</uniprot_xref>
+        <geneSynonyms>NR3A2</geneSynonyms>
+        <definition>A protein that is a translation product of the human ESR2 gene or a 1:1 ortholog thereof. </definition>
+    </owl:Class>
+    
+
+
+    <!-- http://www.drugtargetontology.org/dto#DTO_0017513 -->
+
+    <owl:Class rdf:about="&dto;DTO_0017513">
+        <rdfs:label>steroid hormone receptor err1</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&dto;DTO_0017473"/>
+        <geneSynonyms>ERR1</geneSynonyms>
+        <symbol>ESRRA</symbol>
+        <uniprot_xref>P11474</uniprot_xref>
+        <geneSynonyms>NR3B1</geneSynonyms>
+        <geneSynonyms>ESRL1</geneSynonyms>
+        <definition>A protein that is a translation product of the human ESRRA gene or a 1:1 ortholog thereof. </definition>
+    </owl:Class>
+    
+
+
+    <!-- http://www.drugtargetontology.org/dto#DTO_0017514 -->
+
+    <owl:Class rdf:about="&dto;DTO_0017514">
+        <rdfs:label>steroid hormone receptor err2</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&dto;DTO_0017473"/>
+        <definition>A protein that is a translation product of the human ESRRB gene or a 1:1 ortholog thereof. </definition>
+        <geneSynonyms>ESRL2</geneSynonyms>
+        <geneSynonyms>NR3B2</geneSynonyms>
+        <uniprot_xref>O95718</uniprot_xref>
+        <symbol>ESRRB</symbol>
+        <geneSynonyms>ERRB2</geneSynonyms>
+    </owl:Class>
+    
+
+
+    <!-- http://www.drugtargetontology.org/dto#DTO_0017515 -->
+
+    <owl:Class rdf:about="&dto;DTO_0017515">
+        <rdfs:label>estrogen-related receptor gamma</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&dto;DTO_0017473"/>
+        <symbol>ESRRG</symbol>
+        <geneSynonyms>ERRG2</geneSynonyms>
+        <geneSynonyms>NR3B3</geneSynonyms>
+        <definition>A protein that is a translation product of the human ESRRG gene or a 1:1 ortholog thereof. </definition>
+        <geneSynonyms>ERR3</geneSynonyms>
+        <uniprot_xref>P62508</uniprot_xref>
+        <geneSynonyms>KIAA0832</geneSynonyms>
+    </owl:Class>
+    
+
+
+    <!-- http://www.drugtargetontology.org/dto#DTO_0017516 -->
+
+    <owl:Class rdf:about="&dto;DTO_0017516">
+        <rdfs:label>androgen receptor</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&dto;DTO_0017474"/>
+        <definition>A protein that is a translation product of the human AR gene or a 1:1 ortholog thereof. </definition>
+        <geneSynonyms>DHTR</geneSynonyms>
+        <symbol>AR</symbol>
+        <geneSynonyms>NR3C4</geneSynonyms>
+        <uniprot_xref>P10275</uniprot_xref>
+    </owl:Class>
+    
+
+
+    <!-- http://www.drugtargetontology.org/dto#DTO_0017517 -->
+
+    <owl:Class rdf:about="&dto;DTO_0017517">
+        <rdfs:label>glucocorticoid receptor</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&dto;DTO_0017474"/>
+        <uniprot_xref>P04150</uniprot_xref>
+        <symbol>NR3C1</symbol>
+        <definition>A protein that is a translation product of the human NR3C1 gene or a 1:1 ortholog thereof. </definition>
+        <geneSynonyms>GRL</geneSynonyms>
+    </owl:Class>
+    
+
+
+    <!-- http://www.drugtargetontology.org/dto#DTO_0017518 -->
+
+    <owl:Class rdf:about="&dto;DTO_0017518">
+        <rdfs:label>mineralocorticoid receptor</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&dto;DTO_0017474"/>
+        <geneSynonyms>MCR</geneSynonyms>
+        <definition>A protein that is a translation product of the human NR3C2 gene or a 1:1 ortholog thereof. </definition>
+        <uniprot_xref>P08235</uniprot_xref>
+        <geneSynonyms>MLR</geneSynonyms>
+        <symbol>NR3C2</symbol>
+    </owl:Class>
+    
+
+
+    <!-- http://www.drugtargetontology.org/dto#DTO_0017519 -->
+
+    <owl:Class rdf:about="&dto;DTO_0017519">
+        <rdfs:label>progesterone receptor</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&dto;DTO_0017474"/>
+        <uniprot_xref>P06401</uniprot_xref>
+        <symbol>PGR</symbol>
+        <definition>A protein that is a translation product of the human PGR gene or a 1:1 ortholog thereof. </definition>
+        <geneSynonyms>NR3C3</geneSynonyms>
+    </owl:Class>
+    
+
+
+    <!-- http://www.drugtargetontology.org/dto#DTO_0017520 -->
+
+    <owl:Class rdf:about="&dto;DTO_0017520">
+        <rdfs:label>nuclear receptor subfamily 4 group a member 1</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&dto;DTO_0017475"/>
+        <geneSynonyms>HMR</geneSynonyms>
+        <geneSynonyms>GFRP1</geneSynonyms>
+        <definition>A protein that is a translation product of the human NR4A1 gene or a 1:1 ortholog thereof. </definition>
+        <uniprot_xref>P22736</uniprot_xref>
+        <symbol>NR4A1</symbol>
+        <geneSynonyms>NAK1</geneSynonyms>
+    </owl:Class>
+    
+
+
+    <!-- http://www.drugtargetontology.org/dto#DTO_0017521 -->
+
+    <owl:Class rdf:about="&dto;DTO_0017521">
+        <rdfs:label>nuclear receptor subfamily 4 group a member 2</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&dto;DTO_0017475"/>
+        <geneSynonyms>TINUR</geneSynonyms>
+        <symbol>NR4A2</symbol>
+        <geneSynonyms>NOT</geneSynonyms>
+        <definition>A protein that is a translation product of the human NR4A2 gene or a 1:1 ortholog thereof. </definition>
+        <geneSynonyms>NURR1</geneSynonyms>
+        <uniprot_xref>P43354</uniprot_xref>
+    </owl:Class>
+    
+
+
+    <!-- http://www.drugtargetontology.org/dto#DTO_0017522 -->
+
+    <owl:Class rdf:about="&dto;DTO_0017522">
+        <rdfs:label>nuclear receptor subfamily 4 group a member 3</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&dto;DTO_0017475"/>
+        <uniprot_xref>Q92570</uniprot_xref>
+        <geneSynonyms>CHN</geneSynonyms>
+        <geneSynonyms>CSMF</geneSynonyms>
+        <geneSynonyms>MINOR</geneSynonyms>
+        <symbol>NR4A3</symbol>
+        <geneSynonyms>NOR1</geneSynonyms>
+        <geneSynonyms>TEC</geneSynonyms>
+        <definition>A protein that is a translation product of the human NR4A3 gene or a 1:1 ortholog thereof. </definition>
+    </owl:Class>
+    
+
+
+    <!-- http://www.drugtargetontology.org/dto#DTO_0017523 -->
+
+    <owl:Class rdf:about="&dto;DTO_0017523">
+        <rdfs:label>steroidogenic factor 1</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&dto;DTO_0017476"/>
+        <symbol>NR5A1</symbol>
+        <geneSynonyms>AD4BP</geneSynonyms>
+        <definition>A protein that is a translation product of the human NR5A1 gene or a 1:1 ortholog thereof. </definition>
+        <uniprot_xref>Q13285</uniprot_xref>
+        <geneSynonyms>SF1</geneSynonyms>
+        <geneSynonyms>FTZF1</geneSynonyms>
+    </owl:Class>
+    
+
+
+    <!-- http://www.drugtargetontology.org/dto#DTO_0017524 -->
+
+    <owl:Class rdf:about="&dto;DTO_0017524">
+        <rdfs:label>nuclear receptor subfamily 5 group a member 2</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&dto;DTO_0017476"/>
+        <geneSynonyms>FTF</geneSynonyms>
+        <uniprot_xref>O00482</uniprot_xref>
+        <geneSynonyms>CPF</geneSynonyms>
+        <symbol>NR5A2</symbol>
+        <geneSynonyms>B1F</geneSynonyms>
+        <definition>A protein that is a translation product of the human NR5A2 gene or a 1:1 ortholog thereof. </definition>
+    </owl:Class>
+    
+
+
+    <!-- http://www.drugtargetontology.org/dto#DTO_0017525 -->
+
+    <owl:Class rdf:about="&dto;DTO_0017525">
+        <rdfs:label>nuclear receptor subfamily 6 group a member 1</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&dto;DTO_0017477"/>
+        <definition>A protein that is a translation product of the human NR6A1 gene or a 1:1 ortholog thereof. </definition>
+        <uniprot_xref>Q15406</uniprot_xref>
+        <geneSynonyms>GCNF</geneSynonyms>
+        <symbol>NR6A1</symbol>
+    </owl:Class>
+    
+
+
+    <!-- http://www.drugtargetontology.org/dto#DTO_002000 -->
+
+    <owl:Class rdf:about="&dto;DTO_002000">
+        <rdfs:label>nuclear hormone receptor</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&dto;DTO_000100"/>
+    </owl:Class>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 3.2.3.1824) http://owlapi.sourceforge.net -->
+

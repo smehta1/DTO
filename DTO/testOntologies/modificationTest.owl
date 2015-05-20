@@ -1,0 +1,726 @@
+<?xml version="1.0"?>
+
+
+<!DOCTYPE rdf:RDF [
+    <!ENTITY www "http://www.testont.org/#" >
+    <!ENTITY owl "http://www.w3.org/2002/07/owl#" >
+    <!ENTITY xsd "http://www.w3.org/2001/XMLSchema#" >
+    <!ENTITY rdfs "http://www.w3.org/2000/01/rdf-schema#" >
+    <!ENTITY rdf "http://www.w3.org/1999/02/22-rdf-syntax-ns#" >
+]>
+
+
+<rdf:RDF xmlns="http://www.drugtargetontology.org/dto/"
+     xml:base="http://www.drugtargetontology.org/dto/"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:www="http://www.testont.org/#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+    <owl:Ontology rdf:about="http://www.drugtargetontology.org/dto/"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.testont.org/#TO_0000013 -->
+
+    <owl:ObjectProperty rdf:about="&www;TO_0000013">
+        <rdfs:label xml:lang="en">is associated disease of</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.testont.org/#TO_0000014 -->
+
+    <owl:ObjectProperty rdf:about="&www;TO_0000014">
+        <rdfs:label xml:lang="en">is associated tissue of</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.testont.org/#TO_0000018 -->
+
+    <owl:ObjectProperty rdf:about="&www;TO_0000018">
+        <rdfs:label xml:lang="en">has mutation</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.testont.org/#TO_0000029 -->
+
+    <owl:ObjectProperty rdf:about="&www;TO_0000029">
+        <rdfs:label xml:lang="en">has quality</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.testont.org/#TO_0000033 -->
+
+    <owl:ObjectProperty rdf:about="&www;TO_0000033">
+        <rdfs:label xml:lang="en">changed into</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.testont.org/#TO_0000038 -->
+
+    <owl:ObjectProperty rdf:about="&www;TO_0000038">
+        <rdfs:label xml:lang="en">contains aa</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.testont.org/#TO_0000039 -->
+
+    <owl:ObjectProperty rdf:about="&www;TO_0000039">
+        <rdfs:label xml:lang="en">contains aa change</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.testont.org/#TO_0000045 -->
+
+    <owl:ObjectProperty rdf:about="&www;TO_0000045">
+        <rdfs:label xml:lang="en">has phos residue</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.testont.org/#TO_0000065 -->
+
+    <owl:ObjectProperty rdf:about="&www;TO_0000065">
+        <rdfs:label xml:lang="en">has role</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.testont.org/#TO_0000066 -->
+
+    <owl:ObjectProperty rdf:about="&www;TO_0000066">
+        <rdfs:label xml:lang="en">has gate keeper residue</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.testont.org/#TO_0000071 -->
+
+    <owl:ObjectProperty rdf:about="&www;TO_0000071">
+        <rdfs:label xml:lang="en">is gate keeper residue of</rdfs:label>
+        <owl:inverseOf rdf:resource="&www;TO_0000066"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.testont.org/#TO_0000046 -->
+
+    <owl:DatatypeProperty rdf:about="&www;TO_0000046">
+        <rdfs:label xml:lang="en">position</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.testont.org/#TO_0000072 -->
+
+    <owl:DatatypeProperty rdf:about="&www;TO_0000072">
+        <rdfs:label xml:lang="en">at position</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.testont.org/#TO_0000081 -->
+
+    <owl:DatatypeProperty rdf:about="&www;TO_0000081">
+        <rdfs:label xml:lang="en">has deletion interval</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.testont.org/#TO_0000016 -->
+
+    <owl:Class rdf:about="&www;TO_0000016">
+        <rdfs:label xml:lang="en">protein</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.testont.org/#TO_0000023 -->
+
+    <owl:Class rdf:about="&www;TO_0000023">
+        <rdfs:label xml:lang="en">quality</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.testont.org/#TO_0000024 -->
+
+    <owl:Class rdf:about="&www;TO_0000024">
+        <rdfs:label xml:lang="en">mutated</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&www;TO_0000023"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.testont.org/#TO_0000025 -->
+
+    <owl:Class rdf:about="&www;TO_0000025">
+        <rdfs:label xml:lang="en">phosphorilated</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&www;TO_0000023"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.testont.org/#TO_0000026 -->
+
+    <owl:Class rdf:about="&www;TO_0000026">
+        <rdfs:label xml:lang="en">amino acid</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.testont.org/#TO_0000049 -->
+
+    <owl:Class rdf:about="&www;TO_0000049">
+        <rdfs:label xml:lang="en">kinase</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&www;TO_0000016"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.testont.org/#TO_0000050 -->
+
+    <owl:Class rdf:about="&www;TO_0000050">
+        <rdfs:label xml:lang="en">ABL1</rdfs:label>
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="&www;TO_0000066"/>
+                <owl:someValuesFrom rdf:resource="&www;TO_0000059"/>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="&www;TO_0000049"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.testont.org/#TO_0000051 -->
+
+    <owl:Class rdf:about="&www;TO_0000051">
+        <rdfs:label xml:lang="en">role</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.testont.org/#TO_0000052 -->
+
+    <owl:Class rdf:about="&www;TO_0000052">
+        <rdfs:label xml:lang="en">gate keeper residue</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&www;TO_0000051"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.testont.org/#TO_0000053 -->
+
+    <owl:Class rdf:about="&www;TO_0000053">
+        <rdfs:label xml:lang="en">ABL1(T315I)</rdfs:label>
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="&www;TO_0000038"/>
+                <owl:someValuesFrom>
+                    <owl:Class>
+                        <owl:intersectionOf rdf:parseType="Collection">
+                            <rdf:Description rdf:about="&www;TO_0000059"/>
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="&www;TO_0000033"/>
+                                <owl:someValuesFrom rdf:resource="&www;TO_0000057"/>
+                            </owl:Restriction>
+                        </owl:intersectionOf>
+                    </owl:Class>
+                </owl:someValuesFrom>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="&www;TO_0000050"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="&www;TO_0000029"/>
+                <owl:someValuesFrom rdf:resource="&www;TO_0000025"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="&www;TO_0000029"/>
+                <owl:someValuesFrom rdf:resource="&www;TO_0000024"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="&www;TO_0000029"/>
+                <owl:someValuesFrom rdf:resource="&www;TO_0000077"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.testont.org/#TO_0000055 -->
+
+    <owl:Class rdf:about="&www;TO_0000055">
+        <rdfs:label xml:lang="en">ABL1(Y253F)</rdfs:label>
+        <owl:equivalentClass>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="&www;TO_0000038"/>
+                <owl:someValuesFrom>
+                    <owl:Class>
+                        <owl:intersectionOf rdf:parseType="Collection">
+                            <rdf:Description rdf:about="&www;TO_0000056"/>
+                            <owl:Restriction>
+                                <owl:onProperty rdf:resource="&www;TO_0000033"/>
+                                <owl:someValuesFrom rdf:resource="&www;TO_0000060"/>
+                            </owl:Restriction>
+                        </owl:intersectionOf>
+                    </owl:Class>
+                </owl:someValuesFrom>
+            </owl:Restriction>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="&www;TO_0000050"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="&www;TO_0000029"/>
+                <owl:someValuesFrom rdf:resource="&www;TO_0000025"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="&www;TO_0000029"/>
+                <owl:someValuesFrom rdf:resource="&www;TO_0000024"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.testont.org/#TO_0000056 -->
+
+    <owl:Class rdf:about="&www;TO_0000056">
+        <rdfs:label>Y</rdfs:label>
+        <rdfs:label xml:lang="en">tyrosine</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&www;TO_0000026"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.testont.org/#TO_0000057 -->
+
+    <owl:Class rdf:about="&www;TO_0000057">
+        <rdfs:label>I</rdfs:label>
+        <rdfs:label xml:lang="en">isoleucine</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&www;TO_0000026"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.testont.org/#TO_0000059 -->
+
+    <owl:Class rdf:about="&www;TO_0000059">
+        <rdfs:label>T</rdfs:label>
+        <rdfs:label xml:lang="en">threonine</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&www;TO_0000026"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.testont.org/#TO_0000060 -->
+
+    <owl:Class rdf:about="&www;TO_0000060">
+        <rdfs:label>F</rdfs:label>
+        <rdfs:label xml:lang="en">phenylalanine</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&www;TO_0000026"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.testont.org/#TO_0000061 -->
+
+    <owl:Class rdf:about="&www;TO_0000061">
+        <rdfs:label>L</rdfs:label>
+        <rdfs:label xml:lang="en">leucine</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&www;TO_0000026"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.testont.org/#TO_0000062 -->
+
+    <owl:Class rdf:about="&www;TO_0000062">
+        <rdfs:label>E</rdfs:label>
+        <rdfs:label xml:lang="en">glutamic acid</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&www;TO_0000026"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.testont.org/#TO_0000063 -->
+
+    <owl:Class rdf:about="&www;TO_0000063">
+        <rdfs:label>A</rdfs:label>
+        <rdfs:label xml:lang="en">alanine</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&www;TO_0000026"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.testont.org/#TO_0000064 -->
+
+    <owl:Class rdf:about="&www;TO_0000064">
+        <rdfs:label>P</rdfs:label>
+        <rdfs:label xml:lang="en">proline</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&www;TO_0000026"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.testont.org/#TO_0000067 -->
+
+    <owl:Class rdf:about="&www;TO_0000067">
+        <rdfs:label xml:lang="en">EGFR</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&www;TO_0000049"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="&www;TO_0000066"/>
+                <owl:someValuesFrom rdf:resource="&www;TO_0000059"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://www.testont.org/#TO_0000068 -->
+
+    <owl:Class rdf:about="&www;TO_0000068">
+        <rdfs:label xml:lang="en">EGFR(L747-E749del)/A750P</rdfs:label>
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="&www;TO_0000038"/>
+                        <owl:someValuesFrom>
+                            <owl:Class>
+                                <owl:intersectionOf rdf:parseType="Collection">
+                                    <rdf:Description rdf:about="&www;TO_0000061"/>
+                                    <owl:Restriction>
+                                        <owl:onProperty rdf:resource="&www;TO_0000029"/>
+                                        <owl:someValuesFrom rdf:resource="&www;TO_0000083"/>
+                                    </owl:Restriction>
+                                </owl:intersectionOf>
+                            </owl:Class>
+                        </owl:someValuesFrom>
+                    </owl:Restriction>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="&www;TO_0000038"/>
+                        <owl:someValuesFrom>
+                            <owl:Class>
+                                <owl:intersectionOf rdf:parseType="Collection">
+                                    <rdf:Description rdf:about="&www;TO_0000063"/>
+                                    <owl:Restriction>
+                                        <owl:onProperty rdf:resource="&www;TO_0000033"/>
+                                        <owl:someValuesFrom rdf:resource="&www;TO_0000064"/>
+                                    </owl:Restriction>
+                                </owl:intersectionOf>
+                            </owl:Class>
+                        </owl:someValuesFrom>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="&www;TO_0000067"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.testont.org/#TO_0000069 -->
+
+    <owl:Class rdf:about="&www;TO_0000069">
+        <rdfs:label>R</rdfs:label>
+        <rdfs:label xml:lang="en">arginine</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&www;TO_0000026"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.testont.org/#TO_0000070 -->
+
+    <owl:Class rdf:about="&www;TO_0000070">
+        <rdfs:label xml:lang="en">EGFR(L858R)</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&www;TO_0000067"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.testont.org/#TO_0000077 -->
+
+    <owl:Class rdf:about="&www;TO_0000077">
+        <rdfs:label xml:lang="en">non phosphorilated</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&www;TO_0000023"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.testont.org/#TO_0000083 -->
+
+    <owl:Class rdf:about="&www;TO_0000083">
+        <rdfs:label xml:lang="en">deleted</rdfs:label>
+        <rdfs:subClassOf rdf:resource="&www;TO_0000023"/>
+    </owl:Class>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.testont.org/#TO_0000015 -->
+
+    <owl:NamedIndividual rdf:about="&www;TO_0000015">
+        <rdfs:label xml:lang="en">cl2_i</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.testont.org/#TO_0000030 -->
+
+    <owl:NamedIndividual rdf:about="&www;TO_0000030">
+        <rdfs:label xml:lang="en">d2_i</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.testont.org/#TO_0000031 -->
+
+    <owl:NamedIndividual rdf:about="&www;TO_0000031">
+        <rdfs:label xml:lang="en">cl1_i</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.testont.org/#TO_0000032 -->
+
+    <owl:NamedIndividual rdf:about="&www;TO_0000032">
+        <rdfs:label xml:lang="en">t1_i</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.testont.org/#TO_0000034 -->
+
+    <owl:NamedIndividual rdf:about="&www;TO_0000034">
+        <rdfs:label xml:lang="en">aa2_i</rdfs:label>
+        <www:TO_0000046 rdf:datatype="&xsd;integer">50</www:TO_0000046>
+        <www:TO_0000033 rdf:resource="&www;TO_0000035"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.testont.org/#TO_0000035 -->
+
+    <owl:NamedIndividual rdf:about="&www;TO_0000035">
+        <rdfs:label xml:lang="en">aa1_i</rdfs:label>
+        <www:TO_0000033 rdf:resource="&www;TO_0000034"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.testont.org/#TO_0000036 -->
+
+    <owl:NamedIndividual rdf:about="&www;TO_0000036">
+        <rdfs:label xml:lang="en">p1_wild_i</rdfs:label>
+        <www:TO_0000038 rdf:resource="&www;TO_0000035"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.testont.org/#TO_0000037 -->
+
+    <owl:NamedIndividual rdf:about="&www;TO_0000037">
+        <rdfs:label xml:lang="en">p1M1_i</rdfs:label>
+        <www:TO_0000039 rdf:resource="&www;TO_0000034"/>
+        <www:TO_0000045 rdf:resource="&www;TO_0000034"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.testont.org/#TO_0000040 -->
+
+    <owl:NamedIndividual rdf:about="&www;TO_0000040">
+        <rdfs:label xml:lang="en">p1_iii</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.testont.org/#TO_0000041 -->
+
+    <owl:NamedIndividual rdf:about="&www;TO_0000041">
+        <rdfs:label xml:lang="en">p1_i</rdfs:label>
+        <www:TO_0000039 rdf:resource="&www;TO_0000034"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.testont.org/#TO_0000042 -->
+
+    <owl:NamedIndividual rdf:about="&www;TO_0000042">
+        <rdfs:label xml:lang="en">p1_ii</rdfs:label>
+        <www:TO_0000039 rdf:resource="&www;TO_0000035"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.testont.org/#TO_0000047 -->
+
+    <owl:NamedIndividual rdf:about="&www;TO_0000047">
+        <rdfs:label xml:lang="en">t2_i</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.testont.org/#TO_0000073 -->
+
+    <owl:NamedIndividual rdf:about="&www;TO_0000073">
+        <rdf:type rdf:resource="&www;TO_0000059"/>
+        <rdfs:label xml:lang="en">T_i_1</rdfs:label>
+        <www:TO_0000033 rdf:resource="&www;TO_0000075"/>
+        <www:TO_0000071 rdf:resource="&www;TO_0000076"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.testont.org/#TO_0000074 -->
+
+    <owl:NamedIndividual rdf:about="&www;TO_0000074">
+        <rdf:type rdf:resource="&www;TO_0000061"/>
+        <rdfs:label xml:lang="en">L_i_1</rdfs:label>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.testont.org/#TO_0000075 -->
+
+    <owl:NamedIndividual rdf:about="&www;TO_0000075">
+        <rdf:type rdf:resource="&www;TO_0000057"/>
+        <rdfs:label xml:lang="en">I_i_1</rdfs:label>
+        <www:TO_0000072>315</www:TO_0000072>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.testont.org/#TO_0000076 -->
+
+    <owl:NamedIndividual rdf:about="&www;TO_0000076">
+        <rdf:type rdf:resource="&www;TO_0000053"/>
+        <rdfs:label xml:lang="en">abl1_t315i_i</rdfs:label>
+        <www:TO_0000038 rdf:resource="&www;TO_0000073"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.testont.org/#TO_0000078 -->
+
+    <owl:NamedIndividual rdf:about="&www;TO_0000078">
+        <rdf:type rdf:resource="&www;TO_0000055"/>
+        <rdfs:label xml:lang="en">abl1_y253f_i</rdfs:label>
+        <www:TO_0000038 rdf:resource="&www;TO_0000079"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.testont.org/#TO_0000079 -->
+
+    <owl:NamedIndividual rdf:about="&www;TO_0000079">
+        <rdf:type rdf:resource="&www;TO_0000056"/>
+        <rdfs:label xml:lang="en">Y_i_1</rdfs:label>
+        <www:TO_0000033 rdf:resource="&www;TO_0000080"/>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.testont.org/#TO_0000080 -->
+
+    <owl:NamedIndividual rdf:about="&www;TO_0000080">
+        <rdf:type rdf:resource="&www;TO_0000060"/>
+        <rdfs:label xml:lang="en">F_i_1</rdfs:label>
+        <www:TO_0000072>253</www:TO_0000072>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.testont.org/#TO_0000082 -->
+
+    <owl:NamedIndividual rdf:about="&www;TO_0000082">
+        <rdf:type rdf:resource="&www;TO_0000061"/>
+        <rdfs:label xml:lang="en">L_i_2</rdfs:label>
+        <www:TO_0000081>747-749</www:TO_0000081>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // General axioms
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    <rdf:Description>
+        <rdf:type rdf:resource="&owl;AllDifferent"/>
+        <owl:distinctMembers rdf:parseType="Collection">
+            <rdf:Description rdf:about="&www;TO_0000015"/>
+            <rdf:Description rdf:about="&www;TO_0000030"/>
+            <rdf:Description rdf:about="&www;TO_0000031"/>
+            <rdf:Description rdf:about="&www;TO_0000032"/>
+            <rdf:Description rdf:about="&www;TO_0000047"/>
+        </owl:distinctMembers>
+    </rdf:Description>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 3.4.2) http://owlapi.sourceforge.net -->
+

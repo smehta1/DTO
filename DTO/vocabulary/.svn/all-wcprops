@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/baovitro/!svn/ver/3087/trunk/ontology/DTO/DTO/vocabulary
+END
+kinase_module.owl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/baovitro/!svn/ver/3087/trunk/ontology/DTO/DTO/vocabulary/kinase_module.owl
+END
+quality_vocabulary.owl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/baovitro/!svn/ver/3087/trunk/ontology/DTO/DTO/vocabulary/quality_vocabulary.owl
+END
+nr_gene_module.owl
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/baovitro/!svn/ver/3087/trunk/ontology/DTO/DTO/vocabulary/nr_gene_module.owl
+END
+nr_module.owl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/baovitro/!svn/ver/3087/trunk/ontology/DTO/DTO/vocabulary/nr_module.owl
+END
+DTO_vocabulary_quality.owl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/baovitro/!svn/ver/3075/trunk/ontology/DTO/DTO/vocabulary/DTO_vocabulary_quality.owl
+END
+DTO_vocabulary_ic_gene.owl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/baovitro/!svn/ver/3075/trunk/ontology/DTO/DTO/vocabulary/DTO_vocabulary_ic_gene.owl
+END
+DTO_vocabulary_gpcr_gene.owl
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/baovitro/!svn/ver/3074/trunk/ontology/DTO/DTO/vocabulary/DTO_vocabulary_gpcr_gene.owl
+END
+DTO_vocabulary_ic_protein.owl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/baovitro/!svn/ver/3087/trunk/ontology/DTO/DTO/vocabulary/DTO_vocabulary_ic_protein.owl
+END
+DTO_vocabulary_gpcr_protein.owl
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/baovitro/!svn/ver/3075/trunk/ontology/DTO/DTO/vocabulary/DTO_vocabulary_gpcr_protein.owl
+END
+DTO_vocabulary_properties.owl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/baovitro/!svn/ver/3075/trunk/ontology/DTO/DTO/vocabulary/DTO_vocabulary_properties.owl
+END
+DTO_vocabulary_abstract_entity.owl
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/baovitro/!svn/ver/3083/trunk/ontology/DTO/DTO/vocabulary/DTO_vocabulary_abstract_entity.owl
+END
+ic_gene_module.owl
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/baovitro/!svn/ver/3087/trunk/ontology/DTO/DTO/vocabulary/ic_gene_module.owl
+END
+gpcr_gene_module.owl
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/baovitro/!svn/ver/3087/trunk/ontology/DTO/DTO/vocabulary/gpcr_gene_module.owl
+END
+gpcr_module.owl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/baovitro/!svn/ver/3087/trunk/ontology/DTO/DTO/vocabulary/gpcr_module.owl
+END
+DTO_vocabulary_nh_gene.owl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/baovitro/!svn/ver/3075/trunk/ontology/DTO/DTO/vocabulary/DTO_vocabulary_nh_gene.owl
+END
+ic_module.owl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/baovitro/!svn/ver/3087/trunk/ontology/DTO/DTO/vocabulary/ic_module.owl
+END
+DTO_vocabulary_nh_protein.owl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/baovitro/!svn/ver/3075/trunk/ontology/DTO/DTO/vocabulary/DTO_vocabulary_nh_protein.owl
+END
+DTO_vocabulary_kinase_gene.owl
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/baovitro/!svn/ver/3075/trunk/ontology/DTO/DTO/vocabulary/DTO_vocabulary_kinase_gene.owl
+END
+relationship_module.owl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/baovitro/!svn/ver/3075/trunk/ontology/DTO/DTO/vocabulary/relationship_module.owl
+END
+DTO_vocabulary_kinase_protein.owl
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/baovitro/!svn/ver/3087/trunk/ontology/DTO/DTO/vocabulary/DTO_vocabulary_kinase_protein.owl
+END
+nh_gene_module.owl
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/baovitro/!svn/ver/3087/trunk/ontology/DTO/DTO/vocabulary/nh_gene_module.owl
+END
+DTO_vocabulary_nr_gene.owl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/baovitro/!svn/ver/3075/trunk/ontology/DTO/DTO/vocabulary/DTO_vocabulary_nr_gene.owl
+END
+nh_module.owl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/baovitro/!svn/ver/3087/trunk/ontology/DTO/DTO/vocabulary/nh_module.owl
+END
+DTO_vocabulary_nr_protein.owl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/baovitro/!svn/ver/3075/trunk/ontology/DTO/DTO/vocabulary/DTO_vocabulary_nr_protein.owl
+END
+kinase_gene_module.owl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/baovitro/!svn/ver/3087/trunk/ontology/DTO/DTO/vocabulary/kinase_gene_module.owl
+END

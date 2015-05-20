@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/baovitro/!svn/ver/3083/trunk/ontology/DTO/DTO/external
+END
+BAO2.0_UBERON_import.owl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/baovitro/!svn/ver/3083/trunk/ontology/DTO/DTO/external/BAO2.0_UBERON_import.owl
+END
+BRENDA_import.owl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/baovitro/!svn/ver/3083/trunk/ontology/DTO/DTO/external/BRENDA_import.owl
+END
+LIFE_DOID_import.owl
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/baovitro/!svn/ver/3083/trunk/ontology/DTO/DTO/external/LIFE_DOID_import.owl
+END
+DOID_import.owl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/baovitro/!svn/ver/3083/trunk/ontology/DTO/DTO/external/DOID_import.owl
+END
+LIFE_cell_lines_module.owl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/baovitro/!svn/ver/3083/trunk/ontology/DTO/DTO/external/LIFE_cell_lines_module.owl
+END

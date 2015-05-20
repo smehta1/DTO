@@ -1,0 +1,204 @@
+<?xml version="1.0"?>
+
+
+<!DOCTYPE rdf:RDF [
+    <!ENTITY life "http://www.lifekb.org/life#" >
+    <!ENTITY owl "http://www.w3.org/2002/07/owl#" >
+    <!ENTITY xsd "http://www.w3.org/2001/XMLSchema#" >
+    <!ENTITY rdfs "http://www.w3.org/2000/01/rdf-schema#" >
+    <!ENTITY dto "http://www.drugtargetontology.org/dto#" >
+    <!ENTITY rdf "http://www.w3.org/1999/02/22-rdf-syntax-ns#" >
+]>
+
+
+<rdf:RDF xmlns="http://www.lifekb.org/life/life_vocabulary_protein#"
+     xml:base="http://www.lifekb.org/life/life_vocabulary_protein"
+     xmlns:dto="http://www.drugtargetontology.org/dto#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:life="http://www.lifekb.org/life#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+    <owl:Ontology rdf:about="http://www.drugtargetontology.org/dto/dto_vocabulary_properties"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    <owl:AnnotationProperty rdf:about="&dto;DTO_00100020">
+        <rdfs:label>alternative name</rdfs:label>
+    </owl:AnnotationProperty>
+    <owl:AnnotationProperty rdf:about="&dto;DTO_00100021">
+        <rdfs:label>cell line provider name</rdfs:label>
+    </owl:AnnotationProperty>
+    <owl:AnnotationProperty rdf:about="&dto;DTO_00100">
+        <rdfs:label>UniProt Xref</rdfs:label>
+    </owl:AnnotationProperty>
+    <owl:AnnotationProperty rdf:about="&life;LIFE_001">
+        <rdfs:label>Xref
+</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Datatypes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.drugtargetontology.org/dto#DTO_001000020 -->
+
+    <owl:ObjectProperty rdf:about="&dto;DTO_001000020">
+        <rdfs:label>has target development level</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.drugtargetontology.org/dto#DTO_001000021 -->
+
+    <owl:ObjectProperty rdf:about="&dto;DTO_001000021">
+        <rdfs:label>is target development level of</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.drugtargetontology.org/dto#DTO_00100005 -->
+
+    <owl:ObjectProperty rdf:about="&dto;DTO_00100005">
+        <rdf:type rdf:resource="&owl;TransitiveProperty"/>
+        <rdfs:label>is expressed in with at least some evidence</rdfs:label>
+        <rdfs:subPropertyOf rdf:resource="&dto;DTO_00100006"/>
+        <owl:inverseOf rdf:resource="&dto;DTO_00100012"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.drugtargetontology.org/dto#DTO_00100006 -->
+
+    <owl:ObjectProperty rdf:about="&dto;DTO_00100006">
+        <rdf:type rdf:resource="&owl;TransitiveProperty"/>
+        <rdfs:label>is expressed in with at least weak evidence</rdfs:label>
+        <owl:inverseOf rdf:resource="&dto;DTO_00100012"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.drugtargetontology.org/dto#DTO_00100010 -->
+
+    <owl:ObjectProperty rdf:about="&dto;DTO_00100010">
+        <rdfs:label>is gene product of</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.drugtargetontology.org/dto#DTO_00100011 -->
+
+    <owl:ObjectProperty rdf:about="&dto;DTO_00100011">
+        <rdfs:label>is associated disease of</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.drugtargetontology.org/dto#DTO_00100012 -->
+
+    <owl:ObjectProperty rdf:about="&dto;DTO_00100012">
+        <rdfs:label>is associated tissue of</rdfs:label>
+        <owl:inverseOf rdf:resource="&dto;DTO_00100068"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.drugtargetontology.org/dto#DTO_00100013 -->
+
+    <owl:ObjectProperty rdf:about="&dto;DTO_00100013">
+        <rdf:type rdf:resource="&owl;TransitiveProperty"/>
+        <rdfs:label>has associated disease with at least weak evidence</rdfs:label>
+        <owl:inverseOf rdf:resource="&dto;DTO_00100011"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.drugtargetontology.org/dto#DTO_00100014 -->
+
+    <owl:ObjectProperty rdf:about="&dto;DTO_00100014">
+        <rdf:type rdf:resource="&owl;TransitiveProperty"/>
+        <rdfs:label>has associated disease with at least some evidence</rdfs:label>
+        <owl:inverseOf rdf:resource="&dto;DTO_00100011"/>
+        <rdfs:subPropertyOf rdf:resource="&dto;DTO_00100013"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.drugtargetontology.org/dto#DTO_00100015 -->
+
+    <owl:ObjectProperty rdf:about="&dto;DTO_00100015">
+        <rdf:type rdf:resource="&owl;TransitiveProperty"/>
+        <rdfs:label>has associated disease with strong evidence</rdfs:label>
+        <owl:inverseOf rdf:resource="&dto;DTO_00100011"/>
+        <rdfs:subPropertyOf rdf:resource="&dto;DTO_00100014"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.drugtargetontology.org/dto#DTO_001000544 -->
+
+    <owl:ObjectProperty rdf:about="&dto;DTO_001000544">
+        <rdfs:label>has gene product</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.drugtargetontology.org/dto#DTO_001000545 -->
+
+    <owl:ObjectProperty rdf:about="&dto;DTO_001000545">
+        <rdfs:label>has associated disease</rdfs:label>
+        <owl:inverseOf rdf:resource="&dto;DTO_00100011"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.drugtargetontology.org/dto#DTO_00100056 -->
+
+    <owl:ObjectProperty rdf:about="&dto;DTO_00100056">
+        <rdf:type rdf:resource="&owl;TransitiveProperty"/>
+        <rdfs:label>is expressed in with strong evidence</rdfs:label>
+        <rdfs:subPropertyOf rdf:resource="&dto;DTO_00100005"/>
+        <owl:inverseOf rdf:resource="&dto;DTO_00100012"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.drugtargetontology.org/dto#DTO_00100068 -->
+
+    <owl:ObjectProperty rdf:about="&dto;DTO_00100068">
+        <rdfs:label>has associated tissue</rdfs:label>
+    </owl:ObjectProperty>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 3.2.3.1824) http://owlapi.sourceforge.net -->
+

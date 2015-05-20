@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/baovitro/!svn/ver/3078/trunk/ontology/DTO/DTO/bundle
+END
+DTO_vocabulary_nh_gene.owl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/baovitro/!svn/ver/3078/trunk/ontology/DTO/DTO/bundle/DTO_vocabulary_nh_gene.owl
+END
+DTO_vocabulary_nh_protein.owl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/baovitro/!svn/ver/3078/trunk/ontology/DTO/DTO/bundle/DTO_vocabulary_nh_protein.owl
+END
+DTO_vocabulary_kinase_gene.owl
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/baovitro/!svn/ver/3078/trunk/ontology/DTO/DTO/bundle/DTO_vocabulary_kinase_gene.owl
+END
+DTO_vocabulary_quality.owl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/baovitro/!svn/ver/3078/trunk/ontology/DTO/DTO/bundle/DTO_vocabulary_quality.owl
+END
+DTO_vocabulary_gpcr_gene.owl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/baovitro/!svn/ver/3078/trunk/ontology/DTO/DTO/bundle/DTO_vocabulary_gpcr_gene.owl
+END
+DTO_vocabulary_ic_gene.owl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/baovitro/!svn/ver/3078/trunk/ontology/DTO/DTO/bundle/DTO_vocabulary_ic_gene.owl
+END
+DTO_vocabulary_kinase_protein.owl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/baovitro/!svn/ver/3078/trunk/ontology/DTO/DTO/bundle/DTO_vocabulary_kinase_protein.owl
+END
+DTO_vocabulary_gpcr_protein.owl
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/baovitro/!svn/ver/3078/trunk/ontology/DTO/DTO/bundle/DTO_vocabulary_gpcr_protein.owl
+END
+DTO_vocabulary_ic_protein.owl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/baovitro/!svn/ver/3078/trunk/ontology/DTO/DTO/bundle/DTO_vocabulary_ic_protein.owl
+END
+DTO_vocabulary_properties.owl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/baovitro/!svn/ver/3078/trunk/ontology/DTO/DTO/bundle/DTO_vocabulary_properties.owl
+END
+DTO_vocabulary_nr_gene.owl
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/baovitro/!svn/ver/3078/trunk/ontology/DTO/DTO/bundle/DTO_vocabulary_nr_gene.owl
+END
+DTO_vocabulary_nr_protein.owl
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/baovitro/!svn/ver/3078/trunk/ontology/DTO/DTO/bundle/DTO_vocabulary_nr_protein.owl
+END
+DTO_complete.owl
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/baovitro/!svn/ver/3078/trunk/ontology/DTO/DTO/bundle/DTO_complete.owl
+END
+DTO_core.owl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/baovitro/!svn/ver/3078/trunk/ontology/DTO/DTO/bundle/DTO_core.owl
+END

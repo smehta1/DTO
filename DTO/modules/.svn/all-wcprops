@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/baovitro/!svn/ver/3069/trunk/ontology/DTO/DTO/modules
+END
+DTO_gene_module.owl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/baovitro/!svn/ver/3068/trunk/ontology/DTO/DTO/modules/DTO_gene_module.owl
+END
+DTO_protein_module.owl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/baovitro/!svn/ver/3068/trunk/ontology/DTO/DTO/modules/DTO_protein_module.owl
+END
+DTO_relationship_module.owl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/baovitro/!svn/ver/3069/trunk/ontology/DTO/DTO/modules/DTO_relationship_module.owl
+END

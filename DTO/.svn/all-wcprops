@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/baovitro/!svn/ver/3102/trunk/ontology/DTO/DTO
+END
+DTO_complete_merged_v2.owl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/baovitro/!svn/ver/3102/trunk/ontology/DTO/DTO/DTO_complete_merged_v2.owl
+END
+DTO_complete_test.owl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/baovitro/!svn/ver/3087/trunk/ontology/DTO/DTO/DTO_complete_test.owl
+END
+DTO_complete.owl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/baovitro/!svn/ver/3077/trunk/ontology/DTO/DTO/DTO_complete.owl
+END
+DTO_core.owl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/baovitro/!svn/ver/3076/trunk/ontology/DTO/DTO/DTO_core.owl
+END

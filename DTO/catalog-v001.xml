@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+    <group id="Folder Repository, directory=, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
+        <uri id="Automatically generated entry, Timestamp=1428423553719" name="http://bioassayontology.org/bao/external/BAO2.0_UBERON_import.owl" uri="external/BAO2.0_UBERON_import.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1428423553719" name="duplicate:http://www.drugtargetontology.org/dto" uri="vocabulary/DTO_vocabulary_gpcr_gene.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1428423553719" name="duplicate:http://www.drugtargetontology.org/dto" uri="vocabulary/DTO_vocabulary_gpcr_protein.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1428423553719" name="duplicate:http://www.drugtargetontology.org/dto" uri="vocabulary/DTO_vocabulary_ic_gene.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1428423553719" name="duplicate:http://www.drugtargetontology.org/dto" uri="vocabulary/DTO_vocabulary_ic_protein.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1428423553719" name="duplicate:http://www.drugtargetontology.org/dto" uri="vocabulary/DTO_vocabulary_kinase_gene.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1428423553719" name="duplicate:http://www.drugtargetontology.org/dto" uri="vocabulary/DTO_vocabulary_kinase_protein.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1428423553719" name="duplicate:http://www.drugtargetontology.org/dto" uri="vocabulary/gpcr_gene_module.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1428423553719" name="duplicate:http://www.drugtargetontology.org/dto" uri="vocabulary/gpcr_module.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1428423553719" name="duplicate:http://www.drugtargetontology.org/dto" uri="vocabulary/ic_gene_module.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1428423553719" name="duplicate:http://www.drugtargetontology.org/dto" uri="vocabulary/ic_module.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1428423553719" name="duplicate:http://www.drugtargetontology.org/dto" uri="vocabulary/kinase_gene_module.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1428423553719" name="duplicate:http://www.drugtargetontology.org/dto" uri="vocabulary/kinase_module.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1428423553719" name="duplicate:http://www.drugtargetontology.org/dto" uri="vocabulary/nr_gene_module.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1428423553719" name="duplicate:http://www.drugtargetontology.org/dto" uri="vocabulary/nr_module.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1428423553719" name="http://www.drugtargetontology.org/dto#DTO" uri="vocabulary/DTO_vocabulary_abstract_entity.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1428423553719" name="duplicate:http://www.drugtargetontology.org/dto/" uri="testOntologies/modification_ontology.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1428423553719" name="duplicate:http://www.drugtargetontology.org/dto/" uri="testOntologies/modificationTest.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1428423553719" name="duplicate:http://www.drugtargetontology.org/dto/dto_merged.owl" uri="DTO_complete.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1428423553719" name="duplicate:http://www.drugtargetontology.org/dto/dto_merged.owl" uri="DTO_complete_merged_v2.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1428423553719" name="http://www.drugtargetontology.org/dto/gene_module" uri="modules/DTO_gene_module.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1428423553719" name="duplicate:http://www.drugtargetontology.org/dto/kinase_module" uri="DTO_complete_test.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1428423553719" name="duplicate:http://www.drugtargetontology.org/dto/kinase_module" uri="DTO_core.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1428423553719" name="http://www.drugtargetontology.org/dto/life_cell_lines_module" uri="external/LIFE_cell_lines_module.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1428423553719" name="duplicate:http://www.drugtargetontology.org/dto/nh_gene_module" uri="vocabulary/DTO_vocabulary_nh_gene.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1428423553719" name="duplicate:http://www.drugtargetontology.org/dto/nh_gene_module" uri="vocabulary/DTO_vocabulary_nr_gene.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1428423553719" name="duplicate:http://www.drugtargetontology.org/dto/nh_gene_module" uri="vocabulary/nh_gene_module.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1428423553719" name="duplicate:http://www.drugtargetontology.org/dto/nh_module" uri="vocabulary/DTO_vocabulary_nh_protein.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1428423553719" name="duplicate:http://www.drugtargetontology.org/dto/nh_module" uri="vocabulary/DTO_vocabulary_nr_protein.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1428423553719" name="duplicate:http://www.drugtargetontology.org/dto/nh_module" uri="vocabulary/nh_module.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1428423553719" name="http://www.drugtargetontology.org/dto/protein_module" uri="modules/DTO_protein_module.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1428423553719" name="http://www.drugtargetontology.org/dto/relationship_module" uri="vocabulary/relationship_module.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1428423553719" name="http://www.dto.org/dto/external/DTO_BRENDA_import.owl" uri="external/BRENDA_import.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1428423553719" name="http://www.dto.org/dto/external/DTO_DOID_import.owl" uri="external/DOID_import.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1428423553719" name="http://www.lifekb.org/life/external/LIFE_DOID_import.owl" uri="external/LIFE_DOID_import.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1428423553719" name="http://www.lifekb.org/life/life_vocabulary_protein" uri="vocabulary/DTO_vocabulary_properties.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1428423553719" name="shadowed:http://www.drugtargetontology.org/dto" uri="bundle/DTO_vocabulary_gpcr_gene.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1428423553719" name="shadowed:http://www.drugtargetontology.org/dto" uri="bundle/DTO_vocabulary_gpcr_protein.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1428423553719" name="shadowed:http://www.drugtargetontology.org/dto" uri="bundle/DTO_vocabulary_ic_gene.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1428423553719" name="shadowed:http://www.drugtargetontology.org/dto" uri="bundle/DTO_vocabulary_ic_protein.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1428423553719" name="shadowed:http://www.drugtargetontology.org/dto" uri="bundle/DTO_vocabulary_kinase_gene.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1428423553719" name="shadowed:http://www.drugtargetontology.org/dto" uri="bundle/DTO_vocabulary_kinase_protein.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1428423553719" name="shadowed:http://www.drugtargetontology.org/dto/dto_merged.owl" uri="bundle/DTO_complete.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1428423553719" name="shadowed:http://www.drugtargetontology.org/dto/kinase_module" uri="vocabulary/DTO_vocabulary_quality.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1428423553719" name="shadowed:http://www.drugtargetontology.org/dto/kinase_module" uri="vocabulary/quality_vocabulary.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1428423553719" name="shadowed:http://www.drugtargetontology.org/dto/kinase_module" uri="bundle/DTO_core.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1428423553719" name="shadowed:http://www.drugtargetontology.org/dto/kinase_module" uri="bundle/DTO_vocabulary_quality.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1428423553719" name="shadowed:http://www.drugtargetontology.org/dto/nh_gene_module" uri="bundle/DTO_vocabulary_nh_gene.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1428423553719" name="shadowed:http://www.drugtargetontology.org/dto/nh_gene_module" uri="bundle/DTO_vocabulary_nr_gene.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1428423553719" name="shadowed:http://www.drugtargetontology.org/dto/nh_module" uri="bundle/DTO_vocabulary_nh_protein.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1428423553719" name="shadowed:http://www.drugtargetontology.org/dto/nh_module" uri="bundle/DTO_vocabulary_nr_protein.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1428423553719" name="shadowed:http://www.drugtargetontology.org/dto/relationship_module" uri="modules/DTO_relationship_module.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1428423553719" name="shadowed:http://www.lifekb.org/life/life_vocabulary_protein" uri="bundle/DTO_vocabulary_properties.owl"/>
+    </group>
+</catalog>
