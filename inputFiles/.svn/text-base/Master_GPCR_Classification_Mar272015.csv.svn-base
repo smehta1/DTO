@@ -1,0 +1,828 @@
+UniprotID,Gene_Name,TDL,Protein,IDG_Family,Class,Group,Family,Subfamily,Protein_Name,Ligand_Type
+P08908,HTR1A,Tclin+,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,5-Hydroxytryptamine receptor,,5-hydroxytryptamine receptor 1A,Amine
+P28222,HTR1B,Tclin+,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,5-Hydroxytryptamine receptor,,5-hydroxytryptamine receptor 1B,Amine
+P28221,HTR1D,Tclin+,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,5-Hydroxytryptamine receptor,,5-hydroxytryptamine receptor 1D,Amine
+P28566,HTR1E,Tclin,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,5-Hydroxytryptamine receptor,,5-hydroxytryptamine receptor 1E,Amine
+P30939,HTR1F,Tclin+,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,5-Hydroxytryptamine receptor,,5-hydroxytryptamine receptor 1F,Amine
+P28223,HTR2A,Tclin+,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,5-Hydroxytryptamine receptor,,5-hydroxytryptamine receptor 2A,Amine
+P41595,HTR2B,Tclin+,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,5-Hydroxytryptamine receptor,,5-hydroxytryptamine receptor 2B,Amine
+P28335,HTR2C,Tclin+,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,5-Hydroxytryptamine receptor,,5-hydroxytryptamine receptor 2C,Amine
+Q13639,HTR4,Tclin+,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,5-Hydroxytryptamine receptor,,5-hydroxytryptamine receptor 4,Amine
+P47898,HTR5A,Tclin,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,5-Hydroxytryptamine receptor,,5-hydroxytryptamine receptor 5A,Amine
+P50406,HTR6,Tclin,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,5-Hydroxytryptamine receptor,,5-hydroxytryptamine receptor 6,Amine
+P34969,HTR7,Tclin+,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,5-Hydroxytryptamine receptor,,5-hydroxytryptamine receptor 7,Amine
+P30542,ADORA1,Tclin+,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Adenosine receptor,,Adenosine receptor A1,Nucleoside
+P29274,ADORA2A,Tclin+,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Adenosine receptor,,Adenosine receptor A2a,Nucleoside
+P29275,ADORA2B,Tclin+,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Adenosine receptor,,Adenosine receptor A2b,Nucleoside
+P33765,ADORA3,Tclin+,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Adenosine receptor,,Adenosine receptor A3,Nucleoside
+Q16570,ACKR1,Tmacro,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Chemokine receptors,,Atypical chemokine receptor 1,Peptide
+O00590,ACKR2,Tmacro,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Chemokine receptors,,Atypical chemokine receptor 2,Peptide
+P25106,ACKR3,Tclin,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Chemokine receptors,,Atypical chemokine receptor 3,Peptide
+Q9NPB9,ACKR4,Tmacro,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Chemokine receptors,,Atypical chemokine receptor 4,Peptide
+P11229,CHRM1,Tclin+,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Acetylcholine receptor (muscarinic),,Muscarinic acetylcholine receptor M1,Amine
+P08172,CHRM2,Tclin+,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Acetylcholine receptor (muscarinic),,Muscarinic acetylcholine receptor M2,Amine
+P20309,CHRM3,Tclin+,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Acetylcholine receptor (muscarinic),,Muscarinic acetylcholine receptor M3,Amine
+P08173,CHRM4,Tclin+,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Acetylcholine receptor (muscarinic),,Muscarinic acetylcholine receptor M4,Amine
+P08912,CHRM5,Tclin+,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Acetylcholine receptor (muscarinic),,Muscarinic acetylcholine receptor M5,Amine
+Q01718,MC2R,Tclin+,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Melanocortin receptor,,Adrenocorticotropic hormone receptor,Peptide
+P35348,ADRA1A,Tclin+,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Adrenoceptor,Alpha Adrenoceptor,Alpha-1A adrenergic receptor,Amine
+P35368,ADRA1B,Tclin+,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Adrenoceptor,Alpha Adrenoceptor,Alpha-1B adrenergic receptor,Amine
+P25100,ADRA1D,Tclin+,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Adrenoceptor,Alpha Adrenoceptor,Alpha-1D adrenergic receptor,Amine
+P08913,ADRA2A,Tclin+,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Adrenoceptor,Alpha Adrenoceptor,Alpha-2A adrenergic receptor,Amine
+P18089,ADRA2B,Tclin+,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Adrenoceptor,Alpha Adrenoceptor,Alpha-2B adrenergic receptor,Amine
+P18825,ADRA2C,Tclin+,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Adrenoceptor,Alpha Adrenoceptor,Alpha-2C adrenergic receptor,Amine
+P08588,ADRB1,Tclin+,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Adrenoceptor,Beta Adrenoceptor,Beta-1 adrenergic receptor,Amine
+P07550,ADRB2,Tclin+,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Adrenoceptor,Beta Adrenoceptor,Beta-2 adrenergic receptor,Amine
+P13945,ADRB3,Tclin+,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Adrenoceptor,Beta Adrenoceptor,Beta-3 adrenergic receptor,Amine
+P30556,AGTR1,Tclin+,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Angiotensin receptor,,Type-1 angiotensin II receptor,Peptide
+P50052,AGTR2,Tclin,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Angiotensin receptor,,Type-2 angiotensin II receptor,Peptide
+P35414,APLNR,Tchem,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Apelin receptor,,Apelin receptor,Peptide
+O14514,BAI1,Tmacro,Protein,GPCR,Class B Secretin like,Class B Orphan,,,Brain-specific angiogenesis inhibitor 1,
+O60241,BAI2,Tmacro,Protein,GPCR,Class B Secretin like,Class B Orphan,,,Brain-specific angiogenesis inhibitor 2,
+O60242,BAI3,Tmacro,Protein,GPCR,Class B Secretin like,Class B Orphan,,,Brain-specific angiogenesis inhibitor 3,
+P46663,BDKRB1,Tclin,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Bradykinin receptor,,B1 bradykinin receptor,Peptide
+P30411,BDKRB2,Tclin+,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Bradykinin receptor,,B2 bradykinin receptor,Peptide
+P32247,BRS3,Tchem,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Bombesin receptor,,Bombesin receptor subtype-3,Peptide
+Q16581,C3AR1,Tchem,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Anaphylatoxin receptor family,,C3a anaphylatoxin chemotactic receptor,Peptide
+P21730,C5AR1,Tchem,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Anaphylatoxin receptor family,,C5a anaphylatoxin chemotactic receptor 1,Peptide
+Q9P296,C5AR2,Tmacro,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Anaphylatoxin receptor family,,C5a anaphylatoxin chemotactic receptor 2,Peptide
+P30988,CALCR,Tclin+,Protein,GPCR,Class B Secretin like,,Calcitonin receptor,,Calcitonin receptor,
+Q16602,CALCRL,Tchem,Protein,GPCR,Class B Secretin like,,Calcitonin receptor,,Calcitonin gene-related peptide type 1 receptor,
+P41180,CASR,Tclin+,Protein,GPCR,Class C Metabotropic glutamate/pheromone,,Calcium-sensing receptor,,Extracellular calcium-sensing receptor,
+P32238,CCKAR,Tclin+,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Cholecystokinin receptor,,Cholecystokinin receptor type A,Peptide
+P46092,CCR10,Tmacro,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Chemokine receptor,C-C Chemokine receptor,C-C chemokine receptor type 10,Peptide
+P32246,CCR1,Tclin,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Chemokine receptor,C-C Chemokine receptor,C-C chemokine receptor type 1,Peptide
+P41597,CCR2,Tclin,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Chemokine receptor,C-C Chemokine receptor,C-C chemokine receptor type 2,Peptide
+P51677,CCR3,Tchem,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Chemokine receptor,C-C Chemokine receptor,C-C chemokine receptor type 3,Peptide
+P51679,CCR4,Tclin,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Chemokine receptor,C-C Chemokine receptor,C-C chemokine receptor type 4,Peptide
+P51681,CCR5,Tclin+,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Chemokine receptor,C-C Chemokine receptor,C-C chemokine receptor type 5,Peptide
+P51684,CCR6,Tchem,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Chemokine receptor,C-C Chemokine receptor,C-C chemokine receptor type 6,Peptide
+P32248,CCR7,Tmacro,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Chemokine receptor,C-C Chemokine receptor,C-C chemokine receptor type 7,Peptide
+P51685,CCR8,Tchem,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Chemokine receptor,C-C Chemokine receptor,C-C chemokine receptor type 8,Peptide
+P51686,CCR9,Tchem,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Chemokine receptor,C-C Chemokine receptor,C-C chemokine receptor type 9,Peptide
+O00421,CCRL2,Tmacro,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Chemokine receptor,C-C Chemokine receptor,C-C chemokine receptor-like 2,Peptide
+P48960,CD97,Tmacro,Protein,GPCR,Class B Secretin like,,,,CD97 antigen,
+Q9NYQ6,CELSR1,Tmacro,Protein,GPCR,Class B Secretin like,,Cadherin EGF LAG (CELSR) receptor,,Cadherin EGF LAG seven-pass G-type receptor 1,
+Q9HCU4,CELSR2,Tmacro,Protein,GPCR,Class B Secretin like,,Cadherin EGF LAG (CELSR) receptor,,Cadherin EGF LAG seven-pass G-type receptor 2,
+Q9NYQ7,CELSR3,Tmacro,Protein,GPCR,Class B Secretin like,,Cadherin EGF LAG (CELSR) receptor,,Cadherin EGF LAG seven-pass G-type receptor 3,
+Q9Y271,CYSLTR1,Tclin+,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Leukotriene receptor,,Cysteinyl leukotriene receptor 1,Lipid
+Q9NS75,CYSLTR2,Tclin,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Leukotriene receptor,,Cysteinyl leukotriene receptor 2,Lipid
+Q99788,CMKLR1,Tchem,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Chemerin receptor,,Chemokine-like receptor 1,Peptide
+P21554,CNR1,Tclin+,Protein,GPCR,Class A Rhodopsin like,,Cannabinoid receptor,,Cannabinoid receptor 1,
+P34972,CNR2,Tclin,Protein,GPCR,Class A Rhodopsin like,,Cannabinoid receptor,,Cannabinoid receptor 2,
+P34998,CRHR1,Tchem,Protein,GPCR,Class B Secretin like,,Corticotropin-releasing factor receptor,,Corticotropin-releasing factor receptor 1,
+Q13324,CRHR2,Tchem,Protein,GPCR,Class B Secretin like,,Corticotropin-releasing factor receptor,,Corticotropin-releasing factor receptor 2,
+P49238,CX3CR1,Tchem,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Chemokine receptor,C-X3-C Chemokine receptor,CX3C chemokine receptor 1,Peptide
+P25024,CXCR1,Tclin,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Chemokine receptor,,C-X-C chemokine receptor type 1,Peptide
+P25025,CXCR2,Tchem,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Chemokine receptor,,C-X-C chemokine receptor type 2,Peptide
+P49682,CXCR3,Tchem,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Chemokine receptor,C-X-C Chemokine receptor,C-X-C chemokine receptor type 3,Peptide
+P61073,CXCR4,Tclin+,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Chemokine receptor,C-X-C Chemokine receptor,C-X-C chemokine receptor type 4,Peptide
+P32302,CXCR5,Tmacro,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Chemokine receptor,C-X-C Chemokine receptor,C-X-C chemokine receptor type 5,Peptide
+O00574,CXCR6,Tmacro,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Chemokine receptor,C-X-C Chemokine receptor,C-X-C chemokine receptor type 6,Peptide
+P21728,DRD1,Tclin+,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Dopamine receptor,,D(1A) dopamine receptor,Amine
+P14416,DRD2,Tclin+,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Dopamine receptor,,D(2) dopamine receptor,Amine
+P35462,DRD3,Tclin+,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Dopamine receptor,,D(3) dopamine receptor,Amine
+P21917,DRD4,Tclin+,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Dopamine receptor,,D(4) dopamine receptor,Amine
+P21918,DRD5,Tclin+,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Dopamine receptor,,D(1B) dopamine receptor,Amine
+P25101,EDNRA,Tclin+,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Endothelin receptor,Endothelin type A,Endothelin-1 receptor,Peptide
+P24530,EDNRB,Tclin+,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Endothelin receptor,Endothelin type B,Endothelin B receptor,Peptide
+Q9HBW9,ELTD1,Tgray,Protein,GPCR,Class B Secretin like,,Latrophilin receptor,,"EGF, latrophilin and seven transmembrane domain-containing protein 1",
+Q14246,EMR1,Tmacro,Protein,GPCR,Class B Secretin like,,,,EGF-like module-containing mucin-like hormone receptor-like 1,
+Q9UHX3,EMR2,Tmacro,Protein,GPCR,Class B Secretin like,,,,EGF-like module-containing mucin-like hormone receptor-like 2,
+Q9BY15,EMR3,Tgray,Protein,GPCR,Class B Secretin like,,,,EGF-like module-containing mucin-like hormone receptor-like 3,
+Q86SQ3,EMR4P,Tdark,Protein,GPCR,Class B Secretin like,,,,Putative EGF-like module-containing mucin-like hormone receptor-like 4,
+O60883,GPR37L1,Tgray,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Endothelin receptor,,Prosaposin receptor GPR37L1,Peptide
+O14842,FFAR1,Tchem,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Free fatty acid receptor,,Free fatty acid receptor 1,Fatty Acid
+O15552,FFAR2,Tchem,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Free fatty acid receptor,,Free fatty acid receptor 2,Fatty Acid
+O14843,FFAR3,Tmacro,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Free fatty acid receptor,,Free fatty acid receptor 3,Fatty Acid
+Q5NUL3,FFAR4,Tchem,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Free fatty acid receptor,,Free fatty acid receptor 4,Fatty Acid
+P21462,FPR1,Tclin,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Formyl peptide receptor,,fMet-Leu-Phe receptor,Peptide
+P25090,FPR2,Tchem,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Formyl peptide receptor,,N-formyl peptide receptor 2,Peptide
+P25089,FPR3,Tmacro,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Formyl peptide receptor,,N-formyl peptide receptor 3,Peptide
+P23945,FSHR,Tchem,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Glycoprotein hormone receptor,,Follicle-stimulating hormone receptor,Peptide
+Q9ULW2,FZD10,Tgray,Protein,GPCR,Class F Frizzled-type,,Frizzled receptor,,Frizzled-10,
+Q9UP38,FZD1,Tmacro,Protein,GPCR,Class F Frizzled-type,,Frizzled receptor,,Frizzled-1,
+Q14332,FZD2,Tmacro,Protein,GPCR,Class F Frizzled-type,,Frizzled receptor,,Frizzled-2,
+Q9NPG1,FZD3,Tmacro,Protein,GPCR,Class F Frizzled-type,,Frizzled receptor,,Frizzled-3,
+Q9ULV1,FZD4,Tmacro,Protein,GPCR,Class F Frizzled-type,,Frizzled receptor,,Frizzled-4,
+Q13467,FZD5,Tmacro,Protein,GPCR,Class F Frizzled-type,,Frizzled receptor,,Frizzled-5,
+O60353,FZD6,Tmacro,Protein,GPCR,Class F Frizzled-type,,Frizzled receptor,,Frizzled-6,
+O75084,FZD7,Tmacro,Protein,GPCR,Class F Frizzled-type,,Frizzled receptor,,Frizzled-7,
+Q9H461,FZD8,Tmacro,Protein,GPCR,Class F Frizzled-type,,Frizzled receptor,,Frizzled-8,
+O00144,FZD9,Tmacro,Protein,GPCR,Class F Frizzled-type,,Frizzled receptor,,Frizzled-9,
+Q96N19,GPR137,Tdark,Protein,GPCR,7TM orphan receptors,,GPR137 family,,Integral membrane protein GPR137,
+Q9UBS5,GABBR1,Tclin+,Protein,GPCR,Class C Metabotropic glutamate/pheromone,Class C Receptor with Endogenous Ligand,GABA-B receptor,,Gamma-aminobutyric acid type B receptor subunit 1,Carboxylic acid
+O75899,GABBR2,Tclin+,Protein,GPCR,Class C Metabotropic glutamate/pheromone,Class C Receptor with Endogenous Ligand,GABA-B receptor,,Gamma-aminobutyric acid type B receptor subunit 2,Carboxylic acid
+P47211,GALR1,Tchem,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Galanin receptor,,Galanin receptor type 1,Peptide
+O43603,GALR2,Tchem,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Galanin receptor,,Galanin receptor type 2,Peptide
+O60755,GALR3,Tchem,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Galanin receptor,,Galanin receptor type 3,Peptide
+P32239,CCKBR,Tclin,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Cholecystokinin receptor,,Gastrin/cholecystokinin type B receptor,Peptide
+Q02643,GHRHR,Tclin+,Protein,GPCR,Class B Secretin like,Class B Receptor with Endogenous Ligand,Glucagon receptor,,Growth hormone-releasing hormone receptor,Peptide
+Q92847,GHSR,Tchem,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Ghrelin receptor,,Growth hormone secretagogue receptor type 1,Peptide
+P48546,GIPR,Tchem,Protein,GPCR,Class B Secretin like,Class B Receptor with Endogenous Ligand,Gastric inhibitory peptide 1,,Gastric inhibitory polypeptide receptor,Peptide
+P43220,GLP1R,Tclin+,Protein,GPCR,Class B Secretin like,Class B Receptor with Endogenous Ligand,Glucagon receptor,,Glucagon-like peptide 1 receptor,Peptide
+O95838,GLP2R,Tclin+,Protein,GPCR,Class B Secretin like,Class B Receptor with Endogenous Ligand,Glucagon receptor,,Glucagon-like peptide 2 receptor,Peptide
+P47871,GCGR,Tclin+,Protein,GPCR,Class B Secretin like,Class B Receptor with Endogenous Ligand,Glucagon receptor,,Glucagon receptor,Peptide
+P30968,GNRHR,Tclin+,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Gonadotrophin-releasing hormone receptor,,Gonadotropin-releasing hormone receptor,Peptide
+Q96P88,GNRHR2,Tclin+,Protein,GPCR,Class A Rhodopsin like,,Gonadotrophin-releasing hormone receptor,,Putative gonadotropin-releasing hormone II receptor,
+Q96P66,GPR101,Tgray,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Chemokine receptor,C-C Chemokine receptor,Probable G-protein coupled receptor 101,Peptide
+Q5VW38,GPR107,Tgray,Protein,GPCR,7TM orphan receptors,,LU7TM family,,Protein GPR107,
+Q5T601,GPR110,Tdark,Protein,GPCR,Class B Secretin like,,,,Probable G-protein coupled receptor 110,
+Q8IZF7,GPR111,Tdark,Protein,GPCR,Class B Secretin like,Class B Orphan,,,Probable G-protein coupled receptor 111,
+Q8IZF6,GPR112,Tdark,Protein,GPCR,Class B Secretin like,,,,Probable G-protein coupled receptor 112,
+Q8IZF5,GPR113,Tdark,Protein,GPCR,Class B Secretin like,,,,Probable G-protein coupled receptor 113,
+Q8IZF4,GPR114,Tdark,Protein,GPCR,Class B Secretin like,,,,Probable G-protein coupled receptor 114,
+Q8IZF3,GPR115,Tmacro,Protein,GPCR,Class B Secretin like,Class B Orphan,,,Probable G-protein coupled receptor 115,
+Q8IZF2,GPR116,Tmacro,Protein,GPCR,Class B Secretin like,Class B Orphan,,,Probable G-protein coupled receptor 116,
+Q8TDV5,GPR119,Tchem,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,,,Glucose-dependent insulinotropic receptor,Amine
+Q86SQ6,GPR123,Tgray,Protein,GPCR,Class B Secretin like,,,,Probable G-protein coupled receptor 123,
+Q96PE1,GPR124,Tmacro,Protein,GPCR,Class B Secretin like,,,,G-protein coupled receptor 124,
+Q8IWK6,GPR125,Tgray,Protein,GPCR,Class B Secretin like,,,,Probable G-protein coupled receptor 125,
+Q86SQ4,GPR126,Tmacro,Protein,GPCR,Class B Secretin like,,,,G-protein coupled receptor 126,
+Q96K78,GPR128,Tdark,Protein,GPCR,Class B Secretin like,,,,Probable G-protein coupled receptor 128,
+Q9UNW8,GPR132,Tmacro,Protein,GPCR,Class A Rhodopsin like,Class A Orphan,,,Probable G-protein coupled receptor 132,
+Q6QNK2,GPR133,Tgray,Protein,GPCR,Class B Secretin like,Class B Orphan,,,Probable G-protein coupled receptor 133,
+Q8IZ08,GPR135,Tdark,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Dopamine receptor,,Probable G-protein coupled receptor 135,Amine
+Q6DWJ6,GPR139,Tmacro,Protein,GPCR,Class A Rhodopsin like,Class A Orphan,,,Probable G-protein coupled receptor 139,
+Q7Z602,GPR141,Tdark,Protein,GPCR,Class A Rhodopsin like,Class A Orphan,,,Probable G-protein coupled receptor 141,
+Q7Z601,GPR142,Tchem,Protein,GPCR,Class A Rhodopsin like,Class A Orphan,,,Probable G-protein coupled receptor 142,
+P51810,GPR143,Tmacro,Protein,GPCR,7TM orphan receptors,,,,G-protein coupled receptor 143,
+Q7Z7M1,GPR144,Tdark,Protein,GPCR,Class B Secretin like,,,,Probable G-protein coupled receptor 144,
+Q96CH1,GPR146,Tmacro,Protein,GPCR,Class A Rhodopsin like,Class A Orphan,,,Probable G-protein coupled receptor 146,
+Q8TDV2,GPR148,Tdark,Protein,GPCR,Class A Rhodopsin like,Class A Orphan,,,Probable G-protein coupled receptor 148,
+Q86SP6,GPR149,Tmacro,Protein,GPCR,Class A Rhodopsin like,Class A Orphan,,,Probable G-protein coupled receptor 149,
+Q8NGU9,GPR150,Tgray,Protein,GPCR,Class A Rhodopsin like,Class A Orphan,,,Probable G-protein coupled receptor 150,
+Q8TDV0,GPR151,Tmacro,Protein,GPCR,Class A Rhodopsin like,Class A Orphan,,,Probable G-protein coupled receptor 151,
+Q8TDT2,GPR152,Tmacro,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Melanin-concentrating hormone receptor,,Probable G-protein coupled receptor 152,Peptide
+Q6NV75,GPR153,Tdark,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Melanin-concentrating hormone receptor,,Probable G-protein coupled receptor 153,Peptide
+Q8NFN8,GPR156,Tdark,Protein,GPCR,Class C Metabotropic glutamate/pheromone,,GABA-B receptor,,Probable G-protein coupled receptor 156,
+Q5UAW9,GPR157,Tdark,Protein,GPCR,Class B Secretin like,Class B Orphan,,,Probable G-protein coupled receptor 157,
+Q5T848,GPR158,Tgray,Protein,GPCR,Class C Metabotropic glutamate/pheromone,Class C Orphan,,,Probable G-protein coupled receptor 158,
+Q9UJ42,GPR160,Tmacro,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Melanin-concentrating hormone receptor,,Probable G-protein coupled receptor 160,Peptide
+Q8N6U8,GPR161,Tgray,Protein,GPCR,Class A Rhodopsin like,Class A Orphan,,,G-protein coupled receptor 161,
+Q16538,GPR162,Tdark,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Melanin-concentrating hormone receptor,,Probable G-protein coupled receptor 162,Peptide
+O14626,GPR171,Tmacro,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Purinoceptor,,Probable G-protein coupled receptor 171,Nucleotide-like
+Q9NS66,GPR173,Tgray,Protein,GPCR,Class A Rhodopsin like,Class A Orphan,,,Probable G-protein coupled receptor 173,
+Q9BXC1,GPR174,Tgray,Protein,GPCR,Class A Rhodopsin like,Class A Orphan,,,Probable G-protein coupled receptor 174,
+Q14439,GPR176,Tgray,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Purinoceptor,,Probable G-protein coupled receptor 176,Nucleotide-like
+Q6PRD1,GPR179,Tgray,Protein,GPCR,Class C Metabotropic glutamate/pheromone,Class C Orphan,,,Probable G-protein coupled receptor 179,
+O15218,GPR182,Tmacro,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Adrenomedullin receptor,,G-protein coupled receptor 182,Peptide
+P32249,GPR183,Tmacro,Protein,GPCR,Class A Rhodopsin like,Class A Orphan,,,G-protein coupled receptor 183,
+Q8TDU6,GPBAR1,Tchem,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Bile acid receptor,,G-protein coupled bile acid receptor 1,Lipid
+Q8NGA4,GPR32P1,Tdark,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,,,Putative G-protein coupled receptor GPR32P1,Peptide
+Q9NZH0,GPRC5B,Tmacro,Protein,GPCR,Class C Metabotropic glutamate/pheromone,Class C Orphan,,,G-protein coupled receptor family C group 5 member B,
+Q9NQ84,GPRC5C,Tmacro,Protein,GPCR,Class C Metabotropic glutamate/pheromone,Class C Orphan,,,G-protein coupled receptor family C group 5 member C,
+Q9NZD1,GPRC5D,Tgray,Protein,GPCR,Class C Metabotropic glutamate/pheromone,Class C Orphan,,,G-protein coupled receptor family C group 5 member D,
+Q5T6X5,GPRC6A,Tmacro,Protein,GPCR,Class C Metabotropic glutamate/pheromone,Class C Receptor with Endogenous Ligand,Calcium-sensing receptor,,G-protein coupled receptor family C group 6 member A,Amino Acid
+Q99527,GPER1,Tclin,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Estrogen (G protein-coupled) receptor,,G-protein coupled estrogen receptor 1,Peptide
+P47775,GPR12,Tgray,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,,,G-protein coupled receptor 12,Amine
+P49685,GPR15,Tmacro,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,,,G-protein coupled receptor 15,Peptide
+Q13304,GPR17,Tclin,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Leukotriene receptor,,Uracil nucleotide/cysteinyl leukotriene receptor,Lipid
+Q14330,GPR18,Tmacro,Protein,GPCR,Class A Rhodopsin like,Class A Orphan,,,N-arachidonyl glycine receptor,
+Q15760,GPR19,Tgray,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,,,Probable G-protein coupled receptor 19,Peptide
+P46091,GPR1,Tmacro,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,,,G-protein coupled receptor 1,Peptide
+Q99678,GPR20,Tgray,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Purinoceptor,,G-protein coupled receptor 20,Nucleotide-like
+Q99679,GPR21,Tgray,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Purinoceptor,,Probable G-protein coupled receptor 21,Nucleotide-like
+Q99680,GPR22,Tgray,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Purinoceptor,,Probable G-protein coupled receptor 22,Nucleotide-like
+O00155,GPR25,Tgray,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Angiotensin receptor,,Probable G-protein coupled receptor 25,Peptide
+Q8NDV2,GPR26,Tgray,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,,,G-protein coupled receptor 26,Amine
+Q9NS67,GPR27,Tmacro,Protein,GPCR,Class A Rhodopsin like,Class A Orphan,,,Probable G-protein coupled receptor 27,
+O00270,GPR31,Tdark,Protein,GPCR,Class A Rhodopsin like,Class A Orphan,,,"12-(S)-hydroxy-5,8,10,14-eicosatetraenoic acid receptor",
+O75388,GPR32,Tgray,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,,,Probable G-protein coupled receptor 32,Peptide
+Q49SQ1,GPR33,Tdark,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Chemokine receptor-like,,Probable G-protein coupled receptor 33,Peptide
+Q9UPC5,GPR34,Tgray,Protein,GPCR,Class A Rhodopsin like,Class A Orphan,,,Probable G-protein coupled receptor 34,
+Q9HC97,GPR35,Tclin,Protein,GPCR,Class A Rhodopsin like,Class A Orphan,,,G-protein coupled receptor 35,
+O15354,GPR37,Tmacro,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,,,Prosaposin receptor GPR37,Peptide
+O43194,GPR39,Tchem,Protein,GPCR,Class A Rhodopsin like,Class A Orphan,,,G-protein coupled receptor 39,
+P46089,GPR3,Tmacro,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,,,G-protein coupled receptor 3,Amine
+O15529,GPR42,Tdark,Protein,GPCR,Class A Rhodopsin like,Class A Orphan,,,G-protein coupled receptor 42,
+Q9Y5Y3,GPR45,Tmacro,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,,,Probable G-protein coupled receptor 45,Lipid
+P46093,GPR4,Tmacro,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Purinoceptor,,G-protein coupled receptor 4,Nucleotide-like
+Q9Y2T5,GPR52,Tmacro,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Purinoceptor,,Probable G-protein coupled receptor 52,Nucleotide-like
+Q9Y2T6,GPR55,Tchem,Protein,GPCR,Class A Rhodopsin like,Class A Orphan,,,G-protein coupled receptor 55,
+Q9Y653,GPR56,Tmacro,Protein,GPCR,Class B Secretin like,,,,G-protein coupled receptor 56,
+Q9BZJ8,GPR61,Tgray,Protein,GPCR,Class A Rhodopsin like,Class A Orphan,,,Probable G-protein coupled receptor 61,
+Q9BZJ7,GPR62,Tdark,Protein,GPCR,Class A Rhodopsin like,Class A Orphan,,,Probable G-protein coupled receptor 62,
+Q9BZJ6,GPR63,Tgray,Protein,GPCR,Class A Rhodopsin like,Class A Orphan,,,Probable G-protein coupled receptor 63,
+Q8IZP9,GPR64,Tdark,Protein,GPCR,Class B Secretin like,,,,G-protein coupled receptor 64,
+P46095,GPR6,Tgray,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,,,G-protein coupled receptor 6,Amine
+O95800,GPR75,Tmacro,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,,,Probable G-protein coupled receptor 75,Amine
+Q96P69,GPR78,Tgray,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,,,G-protein coupled receptor 78,Amine
+Q96P67,GPR82,Tdark,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Angiotensin receptor,,Probable G-protein coupled receptor 82,Peptide
+Q9NYM4,GPR83,Tmacro,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,,,Probable G-protein coupled receptor 83,Peptide
+Q9NQS5,GPR84,Tmacro,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Galanin like,,G-protein coupled receptor 84,Peptide
+P60893,GPR85,Tgray,Protein,GPCR,Class A Rhodopsin like,Class A Orphan,,,Probable G-protein coupled receptor 85,
+Q9BY21,GPR87,Tgray,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Purinoceptor,,G-protein coupled receptor 87,Nucleotide-like
+Q9GZN0,GPR88,Tmacro,Protein,GPCR,Class A Rhodopsin like,Class A Orphan,,,Probable G-protein coupled receptor 88,
+Q86Y34,GPR97,Tclin,Protein,GPCR,Class B Secretin like,,,,Probable G-protein coupled receptor 97,
+Q8WXG9,GPR98,Tmacro,Protein,GPCR,Class B Secretin like,Class B Orphan,,,G-protein coupled receptor 98,
+Q13255,GRM1,Tclin,Protein,GPCR,Class C Metabotropic glutamate/pheromone,Class C Receptor with Endogenous Ligand,Metabotropic glutamate receptor,,Metabotropic glutamate receptor 1,Amino Acid
+Q14416,GRM2,Tclin+,Protein,GPCR,Class C Metabotropic glutamate/pheromone,Class C Receptor with Endogenous Ligand,Metabotropic glutamate receptor,,Metabotropic glutamate receptor 2,Amino Acid
+Q14832,GRM3,Tclin,Protein,GPCR,Class C Metabotropic glutamate/pheromone,Class C Receptor with Endogenous Ligand,Metabotropic glutamate receptor,,Metabotropic glutamate receptor 3,Amino Acid
+Q14833,GRM4,Tclin,Protein,GPCR,Class C Metabotropic glutamate/pheromone,Class C Receptor with Endogenous Ligand,Metabotropic glutamate receptor,,Metabotropic glutamate receptor 4,Amino Acid
+P41594,GRM5,Tchem,Protein,GPCR,Class C Metabotropic glutamate/pheromone,Class C Receptor with Endogenous Ligand,Metabotropic glutamate receptor,,Metabotropic glutamate receptor 5,Amino Acid
+O15303,GRM6,Tclin,Protein,GPCR,Class C Metabotropic glutamate/pheromone,Class C Receptor with Endogenous Ligand,Metabotropic glutamate receptor,,Metabotropic glutamate receptor 6,Amino Acid
+Q14831,GRM7,Tchem,Protein,GPCR,Class C Metabotropic glutamate/pheromone,Class C Receptor with Endogenous Ligand,Metabotropic glutamate receptor,,Metabotropic glutamate receptor 7,Amino Acid
+O00222,GRM8,Tclin,Protein,GPCR,Class C Metabotropic glutamate/pheromone,Class C Receptor with Endogenous Ligand,Metabotropic glutamate receptor,,Metabotropic glutamate receptor 8,Amino Acid
+P30550,GRPR,Tchem,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Bombesin receptor,,Gastrin-releasing peptide receptor,Peptide
+Q9BXC0,HCAR1,Tmacro,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Hydroxycarboxylic acid receptor,,Hydroxycarboxylic acid receptor 1,Carboxylic acid
+Q8TDS4,HCAR2,Tclin,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Hydroxycarboxylic acid receptor,,Hydroxycarboxylic acid receptor 2,Carboxylic acid
+P49019,HCAR3,Tclin,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Hydroxycarboxylic acid receptor,,Hydroxycarboxylic acid receptor 3,Carboxylic acid
+P35367,HRH1,Tclin+,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Histamine receptor,,Histamine H1 receptor,Amine
+P25021,HRH2,Tclin+,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Histamine receptor,,Histamine H2 receptor,Amine
+Q9Y5N1,HRH3,Tclin,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Histamine receptor,,Histamine H3 receptor,Amine
+Q9H3N8,HRH4,Tclin+,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Histamine receptor,,Histamine H4 receptor,Amine
+Q969F8,KISS1R,Tchem,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Kisspeptin receptor,,KiSS-1 receptor,Peptide
+Q9BXB1,LGR4,Tmacro,Protein,GPCR,Class A Rhodopsin like,Class A Orphan,,,Leucine-rich repeat-containing G-protein coupled receptor 4,
+O75473,LGR5,Tmacro,Protein,GPCR,Class A Rhodopsin like,Class A Orphan,,,Leucine-rich repeat-containing G-protein coupled receptor 5,
+Q9HBX8,LGR6,Tmacro,Protein,GPCR,Class A Rhodopsin like,Class A Orphan,,,Leucine-rich repeat-containing G-protein coupled receptor 6,
+Q92633,LPAR1,Tchem,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,,,Lysophosphatidic acid receptor 1,Lipid
+Q9HBW0,LPAR2,Tchem,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,,,Lysophosphatidic acid receptor 2,Lipid
+Q9UBY5,LPAR3,Tchem,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,,,Lysophosphatidic acid receptor 3,Lipid
+Q99677,LPAR4,Tchem,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,,,Lysophosphatidic acid receptor 4,Lipid
+Q9H1C0,LPAR5,Tchem,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,,,Lysophosphatidic acid receptor 5,Lipid
+P43657,LPAR6,Tchem,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,,,Lysophosphatidic acid receptor 6,Lipid
+O94910,LPHN1,Tmacro,Protein,GPCR,Class B Secretin like,,Latrophilin receptor,,Latrophilin-1,
+O95490,LPHN2,Tmacro,Protein,GPCR,Class B Secretin like,Class B Orphan,Latrophilin receptor,,Latrophilin-2,
+Q9HAR2,LPHN3,Tgray,Protein,GPCR,Class B Secretin like,Class B Orphan,Latrophilin receptor,,Latrophilin-3,
+P22888,LHCGR,Tclin,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Glycoprotein hormone receptor,,Lutropin-choriogonadotropic hormone receptor,Hormone protein
+Q15722,LTB4R,Tclin,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Leukotriene receptor,,Leukotriene B4 receptor 1,Lipid
+Q9NPC1,LTB4R2,Tchem,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Leukotriene receptor,,Leukotriene B4 receptor 2,Lipid
+P35410,MAS1L,Tgray,Protein,GPCR,Class A Rhodopsin like,Class A Orphan,Mas proto-oncogene and Mas-related (MRGs) receptor,,Mas-related G-protein coupled receptor MRG,
+P04201,MAS1,Tmacro,Protein,GPCR,Class A Rhodopsin like,Class A Orphan,Mas proto-oncogene and Mas-related (MRGs) receptor,,Proto-oncogene Mas,
+P41968,MC3R,Tclin,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Melanocortin receptor,,Melanocortin receptor 3,Peptide
+P32245,MC4R,Tclin,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Melanocortin receptor,,Melanocortin receptor 4,Peptide
+P33032,MC5R,Tclin,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Melanocortin receptor,,Melanocortin receptor 5,Peptide
+Q99705,MCHR1,Tchem,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Melanin-concentrating hormone receptor,,Melanin-concentrating hormone receptor 1,Peptide
+Q969V1,MCHR2,Tchem,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Melanin-concentrating hormone receptor,,Melanin-concentrating hormone receptor 2,Peptide
+Q8TDS7,MRGPRD,Tgray,Protein,GPCR,Class A Rhodopsin like,Class A Orphan,Mas proto-oncogene and Mas-related (MRGs) receptor,,Mas-related G-protein coupled receptor member D,
+Q86SM8,MRGPRE,Tgray,Protein,GPCR,Class A Rhodopsin like,Class A Orphan,Mas proto-oncogene and Mas-related (MRGs) receptor,,Mas-related G-protein coupled receptor member E,
+Q96AM1,MRGPRF,Tmacro,Protein,GPCR,Class A Rhodopsin like,Class A Orphan,Mas proto-oncogene and Mas-related (MRGs) receptor,,Mas-related G-protein coupled receptor member F,
+Q86SM5,MRGPRG,Tdark,Protein,GPCR,Class A Rhodopsin like,Class A Orphan,Mas proto-oncogene and Mas-related (MRGs) receptor,,Mas-related G-protein coupled receptor member G,
+Q96LB2,MRGPRX1,Tchem,Protein,GPCR,Class A Rhodopsin like,Class A Orphan,Mas proto-oncogene and Mas-related (MRGs) receptor,,Mas-related G-protein coupled receptor member X1,
+Q96LB1,MRGPRX2,Tchem,Protein,GPCR,Class A Rhodopsin like,Class A Orphan,Mas proto-oncogene and Mas-related (MRGs) receptor,,Mas-related G-protein coupled receptor member X2,
+Q96LB0,MRGPRX3,Tdark,Protein,GPCR,Class A Rhodopsin like,Class A Orphan,Mas proto-oncogene and Mas-related (MRGs) receptor,,Mas-related G-protein coupled receptor member X3,
+Q96LA9,MRGPRX4,Tdark,Protein,GPCR,Class A Rhodopsin like,Class A Orphan,Mas proto-oncogene and Mas-related (MRGs) receptor,,Mas-related G-protein coupled receptor member X4,
+Q01726,MC1R,Tclin+,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Melanocortin receptor,,Melanocyte-stimulating hormone receptor,Peptide
+O43193,MLNR,Tclin,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Motilin receptor,,Motilin receptor,Peptide
+P48039,MTNR1A,Tclin+,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Melatonin receptor,,Melatonin receptor type 1A,Amine
+P49286,MTNR1B,Tclin+,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Melatonin receptor,,Melatonin receptor type 1B,Amine
+Q13585,GPR50,Tmacro,Protein,GPCR,Class A Rhodopsin like,Class A Orphan,,,Melatonin-related receptor,
+P25103,TACR1,Tclin+,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Tachykinin receptor,,Substance-P receptor,Peptide
+P21452,TACR2,Tclin,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Tachykinin receptor,,Substance-K receptor,Peptide
+P29371,TACR3,Tclin,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Tachykinin receptor,,Neuromedin-K receptor,Peptide
+P28336,NMBR,Tchem,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Bombesin receptor,,Neuromedin-B receptor,Peptide
+Q9HB89,NMUR1,Tmacro,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Neuromedin U receptor,,Neuromedin-U receptor 1,Peptide
+Q9GZQ4,NMUR2,Tmacro,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Neuromedin U receptor,,Neuromedin-U receptor 2,Peptide
+P48145,NPBWR1,Tchem,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Neuropeptide W/neuropeptide B receptor,,Neuropeptides B/W receptor type 1,Peptide
+P48146,NPBWR2,Tgray,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Neuropeptide W/neuropeptide B receptor,,Neuropeptides B/W receptor type 2,Peptide
+Q9GZQ6,NPFFR1,Tchem,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Neuropeptide FF/neuropeptide AF receptor,,Neuropeptide FF receptor 1,Peptide
+Q9Y5X5,NPFFR2,Tchem,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Neuropeptide FF/neuropeptide AF receptor,,Neuropeptide FF receptor 2,Peptide
+Q6W5P4,NPSR1,Tchem,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Neuropeptide S receptor,,Neuropeptide S receptor,Peptide
+P25929,NPY1R,Tchem,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Neuropeptide Y receptor,,Neuropeptide Y receptor type 1,Peptide
+P49146,NPY2R,Tchem,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Neuropeptide Y receptor,,Neuropeptide Y receptor type 2,Peptide
+P50391,NPY4R,Tchem,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Neuropeptide Y receptor,,Neuropeptide Y receptor type 4,Peptide
+Q15761,NPY5R,Tchem,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Neuropeptide Y receptor,,Neuropeptide Y receptor type 5,Peptide
+Q99463,NPY6R,Tdark,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Neuropeptide Y receptor,,Putative neuropeptide Y receptor type 6,Peptide
+P30989,NTSR1,Tchem,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Neurotensin receptor,,Neurotensin receptor type 1,Peptide
+O95665,NTSR2,Tclin,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Neurotensin receptor,,Neurotensin receptor type 2,Peptide
+Q9H208,OR10A2,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 10A2,
+P58181,OR10A3,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 10A3,
+Q9H209,OR10A4,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 10A4,
+Q9H207,OR10A5,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 10A5,
+Q8NH74,OR10A6,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 10A6,
+Q8NGE5,OR10A7,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 10A7,
+Q8NH08,OR10AC1,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Putative olfactory receptor 10AC1,
+Q8NGE0,OR10AD1,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 10AD1,
+Q8NH19,OR10AG1,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 10AG1,
+Q96KK4,OR10C1,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 10C1,
+Q8NH80,OR10D3,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Putative olfactory receptor 10D3,
+Q8NGN7,OR10D4P,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Putative olfactory receptor 10D4,
+Q8NGC3,OR10G2,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 10G2,
+Q8NGC4,OR10G3,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 10G3,
+Q8NGN3,OR10G4,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 10G4,
+Q8NH81,OR10G6,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 10G6,
+Q8NGN6,OR10G7,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 10G7,
+Q8NGN5,OR10G8,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 10G8,
+Q8NGN4,OR10G9,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 10G9,
+Q9Y4A9,OR10H1,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 10H1,
+O60403,OR10H2,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 10H2,
+O60404,OR10H3,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 10H3,
+Q8NGA5,OR10H4,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 10H4,
+Q8NGA6,OR10H5,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 10H5,
+P30954,OR10J1,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 10J1,
+Q5JRS4,OR10J3,Tgray,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 10J3,
+P0C629,OR10J4,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 10J4,
+Q8NHC4,OR10J5,Tgray,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 10J5,
+Q8NGY7,OR10J6P,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Putative olfactory receptor 10J6,
+Q8NGX5,OR10K1,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 10K1,
+Q6IF99,OR10K2,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 10K2,
+Q8NGE3,OR10P1,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 10P1,
+Q8NGQ4,OR10Q1,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 10Q1,
+Q8NGX6,OR10R2,Tmacro,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 10R2,
+Q8NGN2,OR10S1,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 10S1,
+Q8NGX3,OR10T2,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 10T2,
+Q8NGI7,OR10V1,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 10V1,
+Q8NGF6,OR10W1,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 10W1,
+Q8NGY0,OR10X1,Tgray,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 10X1,
+Q8NGY1,OR10Z1,Tgray,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 10Z1,
+Q9GZK7,OR11A1,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 11A1,
+Q8NGC1,OR11G2,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 11G2,
+Q8NG94,OR11H1,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 11H1,
+Q8NH07,OR11H2,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 11H2,
+Q8NGC9,OR11H4,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 11H4,
+Q8NGC7,OR11H6,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 11H6,
+Q8NGC8,OR11H7,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 11H7,
+B2RN74,OR11H12,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 11H12,
+Q8NGX0,OR11L1,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 11L1,
+P58182,OR12D2,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 12D2,
+Q9UGF7,OR12D3,Tgray,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 12D3,
+Q8NGR1,OR13A1,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 13A1,
+Q8NGS9,OR13C2,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 13C2,
+Q8NGS6,OR13C3,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 13C3,
+Q8NGS5,OR13C4,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 13C4,
+Q8NGS8,OR13C5,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 13C5,
+Q8NGS7,OR13C8,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 13C8,
+Q8NGT0,OR13C9,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 13C9,
+Q8NGV5,OR13D1,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 13D1,
+Q8NGS4,OR13F1,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 13F1,
+Q8NGZ3,OR13G1,Tgray,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 13G1,
+Q8NG92,OR13H1,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 13H1,
+Q8NGT2,OR13J1,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 13J1,
+Q96R54,OR14A2,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 14A2,
+Q8NHC5,OR14A16,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 14A16,
+Q8NHC7,OR14C36,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 14C36,
+A6ND48,OR14I1,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 14I1,
+Q9UGF5,OR14J1,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 14J1,
+Q8NGZ2,OR14K1,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 14K1,
+Q8NHC6,OR14L1P,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Putative olfactory receptor 14L1,
+Q8NGT7,OR2A12,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 2A12,
+Q96R47,OR2A14,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 2A14,
+A4D2G3,OR2A25,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 2A25,
+Q8NHA4,OR2AE1,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 2AE1,
+Q9H205,OR2AG1,Tgray,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 2AG1,
+A6NM03,OR2AG2,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 2AG2,
+Q8NGZ0,OR2AJ1,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 2AJ1,
+Q8NG84,OR2AK2,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 2AK2,
+Q8NGE2,OR2AP1,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 2AP1,
+A6NND4,OR2AT4,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 2AT4,
+Q8NGZ9,OR2T10,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 2T10,
+Q8NH01,OR2T11,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 2T11,
+Q8NG77,OR2T12,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 2T12,
+Q8NH04,OR2T27,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 2T27,
+Q8NH02,OR2T29,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 2T29,
+Q8NG76,OR2T33,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 2T33,
+Q8NGX1,OR2T34,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 2T34,
+Q8NGX2,OR2T35,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 2T35,
+Q8NGL6,OR4A15,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 4A15,
+Q8NH70,OR4A16,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 4A16,
+Q6IF82,OR4A47,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 4A47,
+A6NMZ5,OR4C45,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 4C45,
+A6NHA9,OR4C46,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 4C46,
+Q8NGB8,OR4F15,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 4F15,
+Q8NGA8,OR4F17,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 4F17,
+O95013,OR4F21,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 4F21,
+Q8NGJ7,OR51A2,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 51A2,
+Q8NGJ6,OR51A4,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 51A4,
+Q8NH64,OR51A7,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 51A7,
+Q9Y5P1,OR51B2,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 51B2,
+Q9Y5P0,OR51B4,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 51B4,
+Q9H339,OR51B5,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 51B5,
+Q9H340,OR51B6,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 51B6,
+Q8NGF3,OR51D1,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 51D1,
+Q8TCB6,OR51E1,Tgray,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 51E1,
+Q9H255,OR51E2,Tgray,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 51E2,
+A6NGY5,OR51F1,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 51F1,
+Q8NH61,OR51F2,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 51F2,
+Q8NGK1,OR51G1,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 51G1,
+Q8NGK0,OR51G2,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 51G2,
+Q8NH63,OR51H1P,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Putative olfactory receptor 51H1,
+Q9H343,OR51I1,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 51I1,
+Q9H344,OR51I2,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 51I2,
+Q9H342,OR51J1,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 51J1,
+Q8NGJ5,OR51L1,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 51L1,
+Q9H341,OR51M1,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 51M1,
+Q8NH59,OR51Q1,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 51Q1,
+Q8NGJ8,OR51S1,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 51S1,
+Q8NGJ9,OR51T1,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 51T1,
+Q9H2C8,OR51V1,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 51V1,
+Q9UKL2,OR52A1,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 52A1,
+A6NMU1,OR52A4,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Putative olfactory receptor 52A4,
+Q9H2C5,OR52A5,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 52A5,
+Q96RD2,OR52B2,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 52B2,
+Q8NGK2,OR52B4,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 52B4,
+Q8NGF0,OR52B6,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 52B6,
+Q9H346,OR52D1,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 52D1,
+Q8NGJ3,OR52E1,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 52E1,
+Q8NGJ4,OR52E2,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 52E2,
+Q8NGH9,OR52E4,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 52E4,
+Q8NH55,OR52E5,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 52E5,
+Q96RD3,OR52E6,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 52E6,
+Q6IFG1,OR52E8,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 52E8,
+Q8NGJ2,OR52H1,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 52H1,
+Q8NGK6,OR52I1,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 52I1,
+Q8NH67,OR52I2,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 52I2,
+Q8NH60,OR52J3,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 52J3,
+Q8NGK4,OR52K1,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 52K1,
+Q8NGK3,OR52K2,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 52K2,
+Q8NGH7,OR52L1,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 52L1,
+Q8NGH6,OR52L2P,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Putative olfactory receptor 52L2,
+Q8NGK5,OR52M1,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 52M1,
+Q8NH53,OR52N1,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 52N1,
+Q8NGI0,OR52N2,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 52N2,
+Q8NGI2,OR52N4,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 52N4,
+Q8NH56,OR52N5,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 52N5,
+Q8NH57,OR52P1P,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Putative olfactory receptor 52P1,
+Q8NGF1,OR52R1,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 52R1,
+Q6IF63,OR52W1,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 52W1,
+P0C646,OR52Z1,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 52Z1,
+Q8NGH5,OR56A1,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 56A1,
+Q8NH54,OR56A3,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 56A3,
+Q8NGH8,OR56A4,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 56A4,
+P0C7T3,OR56A5,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 56A5,
+Q8NGI3,OR56B1,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 56B1,
+Q8NGI1,OR56B2P,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Putative olfactory receptor 56B2,
+Q8NH76,OR56B4,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 56B4,
+P0C628,OR5AC1,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 5AC1,
+Q9NZP5,OR5AC2,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 5AC2,
+Q8NH90,OR5AK2,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 5AK2,
+Q8NH89,OR5AK3P,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Putative olfactory receptor 5AK3,
+P0C617,OR5AL1,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 5AL1,
+Q8NGI8,OR5AN1,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 5AN1,
+Q8NGF4,OR5AP2,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 5AP2,
+Q8NGP9,OR5AR1,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 5AR1,
+Q8N127,OR5AS1,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 5AS1,
+Q8NGC0,OR5AU1,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 5AU1,
+A6NHG9,OR5H14,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 5H14,
+A6NDH6,OR5H15,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 5H15,
+A6NJZ3,OR6C65,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 6C65,
+A6NDL8,OR6C68,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 6C68,
+A6NIJ9,OR6C70,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 6C70,
+A6NCV1,OR6C74,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 6C74,
+A6NL08,OR6C75,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 6C75,
+A6NM76,OR6C76,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 6C76,
+Q6IFN5,OR7E24,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 7E24,
+Q15743,GPR68,Tmacro,Protein,GPCR,Class A Rhodopsin like,Class A Orphan,Purinoceptor,,Ovarian cancer G-protein coupled receptor 1,
+Q9H1Y3,OPN3,Tmacro,Protein,GPCR,Class A Rhodopsin like,,Opsin,,Opsin-3,
+Q9UHM6,OPN4,Tmacro,Protein,GPCR,Class A Rhodopsin like,,Opsin,,Melanopsin,
+Q6U736,OPN5,Tgray,Protein,GPCR,Class A Rhodopsin like,,Opsin,,Opsin-5,
+P41143,OPRD1,Tclin+,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Opioid receptor,,Delta-type opioid receptor,Peptide
+P41145,OPRK1,Tclin+,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Opioid receptor,,Kappa-type opioid receptor,Peptide
+P35372,OPRM1,Tclin+,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Opioid receptor,,Mu-type opioid receptor,Peptide
+P41146,OPRL1,Tclin,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Opioid receptor,,Nociceptin receptor,Peptide
+P03999,OPN1SW,Tmacro,Protein,GPCR,Class A Rhodopsin like,,Opsin,,Short-wave-sensitive opsin 1,
+P08100,RHO,Tmacro,Protein,GPCR,Class A Rhodopsin like,,Opsin,,Rhodopsin,
+P04001,OPN1MW; OPN1MW2,Tdark,Protein,GPCR,Class A Rhodopsin like,,Opsin,,Medium-wave-sensitive opsin 1,
+P04000,OPN1LW,Tmacro,Protein,GPCR,Class A Rhodopsin like,,Opsin,,Long-wave-sensitive opsin 1,
+O14718,RRH,Tgray,Protein,GPCR,Class A Rhodopsin like,,Opsin,,Visual pigment-like receptor peropsin,
+Q9P1Q5,OR1A1,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 1A1,
+Q9Y585,OR1A2,Tgray,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 1A2,
+Q8NGR6,OR1B1,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 1B1,
+Q15619,OR1C1,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 1C1,
+P34982,OR1D2,Tgray,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 1D2,
+P47884,OR1D4,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 1D4,
+P58170,OR1D5,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 1D5,
+P30953,OR1E1,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 1E1,
+P47887,OR1E2,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 1E2,
+Q8WZA6,OR1E3,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 1E3,
+O43749,OR1F1,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 1F1,
+Q96R84,OR1F2P,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Putative olfactory receptor 1F2,
+Q8NHA8,OR1F12,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 1F12,
+P47890,OR1G1,Tgray,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 1G1,
+O60431,OR1I1,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 1I1,
+Q8NGS3,OR1J1,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 1J1,
+Q8NGS2,OR1J2,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 1J2,
+Q8NGS1,OR1J4,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 1J4,
+Q8NGR3,OR1K1,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 1K1,
+Q8NH94,OR1L1,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 1L1,
+Q8NH93,OR1L3,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 1L3,
+Q8NGR5,OR1L4,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 1L4,
+Q8NGR2,OR1L6,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 1L6,
+Q8NGR8,OR1L8,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 1L8,
+Q8NGA1,OR1M1,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 1M1,
+Q8NGS0,OR1N1,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 1N1,
+Q8NGR9,OR1N2,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 1N2,
+Q8NH06,OR1P1,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 1P1,
+Q15612,OR1Q1,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 1Q1,
+Q8NH92,OR1S1,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 1S1,
+Q8NGQ3,OR1S2,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 1S2,
+Q8NGT9,OR2A1; OR2A42,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 2A1/2A42,
+Q6IF42,OR2A2,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 2A2,
+O95047,OR2A4,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 2A4,
+Q96R48,OR2A5,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 2A5,
+Q96R45,OR2A7,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 2A7,
+Q9GZK3,OR2B2,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 2B2,
+O76000,OR2B3,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Putative olfactory receptor 2B3,
+P58173,OR2B6,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 2B6,
+P59922,OR2B8P,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Putative olfactory receptor 2B8,
+Q5JQS5,OR2B11,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 2B11,
+O95371,OR2C1,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 2C1,
+Q8N628,OR2C3,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 2C3,
+Q9H210,OR2D2,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 2D2,
+Q8NGH3,OR2D3,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 2D3,
+Q13607,OR2F1,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 2F1,
+O95006,OR2F2,Tgray,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 2F2,
+Q8NGZ5,OR2G2,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 2G2,
+Q8NGZ4,OR2G3,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 2G3,
+Q5TZ20,OR2G6,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 2G6,
+Q9GZK4,OR2H1,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 2H1,
+O95918,OR2H2,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 2H2,
+Q8NGU4,OR2I1P,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Putative olfactory receptor 2I1,
+Q9GZK6,OR2J1,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 2J1,
+O76002,OR2J2,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 2J2,
+O76001,OR2J3,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 2J3,
+Q8NGT1,OR2K2,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 2K2,
+Q8NH16,OR2L2,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 2L2,
+Q8NG85,OR2L3,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 2L3,
+Q8NG80,OR2L5,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 2L5,
+Q8NGY9,OR2L8,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 2L8,
+Q8N349,OR2L13,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 2L13,
+Q96R28,OR2M2,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 2M2,
+Q8NG83,OR2M3,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 2M3,
+Q96R27,OR2M4,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 2M4,
+A3KFT3,OR2M5,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 2M5,
+Q8NG81,OR2M7,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 2M7,
+Q9NQN1,OR2S2,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 2S2,
+O43869,OR2T1,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 2T1,
+Q6IF00,OR2T2,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 2T2,
+Q8NH03,OR2T3,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 2T3,
+Q8NH00,OR2T4,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 2T4,
+Q6IEZ7,OR2T5,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 2T5,
+Q8NHC8,OR2T6,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 2T6,
+P0C7T2,OR2T7,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 2T7,
+A6NH00,OR2T8,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 2T8,
+Q8NHB1,OR2V1,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 2V1,
+Q96R30,OR2V2,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 2V2,
+Q9Y3N9,OR2W1,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 2W1,
+Q7Z3T1,OR2W3,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 2W3,
+A6NFC9,OR2W5,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Putative olfactory receptor 2W5,
+Q8NHA6,OR2W6P,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Putative olfactory receptor 2W6,
+Q8NGV0,OR2Y1,Tmacro,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 2Y1,
+Q8NG97,OR2Z1,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 2Z1,
+P47881,OR3A1,Tmacro,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 3A1,
+P47893,OR3A2,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 3A2,
+P47888,OR3A3,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 3A3,
+P47883,OR3A4P,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Putative olfactory receptor 3A4,
+Q8NGN8,OR4A4P,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Putative olfactory receptor 4A4,
+Q8NH83,OR4A5,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 4A5,
+P0C604,OR4A8P,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Putative olfactory receptor 4A8,
+Q8NGF8,OR4B1,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 4B1,
+Q8NH37,OR4C3,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 4C3,
+Q8NGB2,OR4C5,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 4C5,
+Q8NH72,OR4C6,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 4C6,
+Q6IEV9,OR4C11,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 4C11,
+Q96R67,OR4C12,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 4C12,
+Q8NGP0,OR4C13,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 4C13,
+Q8NGM1,OR4C15,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 4C15,
+Q8NGL9,OR4C16,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 4C16,
+Q15615,OR4D1,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 4D1,
+P58180,OR4D2,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 4D2,
+Q8NGN0,OR4D5,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 4D5,
+Q8NGJ1,OR4D6,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 4D6,
+Q8NGE8,OR4D9,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 4D9,
+Q8NGI6,OR4D10,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 4D10,
+Q8NGI4,OR4D11,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 4D11,
+P0C645,OR4E1,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 4E1,
+Q8NGC2,OR4E2,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 4E2,
+Q6IEY1,OR4F3; OR4F16; OR4F29,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 4F3/4F16/4F29,
+Q96R69,OR4F4,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 4F4,
+Q8NH21,OR4F5,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 4F5,
+Q8NGB9,OR4F6,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 4F6,
+Q8NGD4,OR4K1,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 4K1,
+Q8NGD2,OR4K2,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 4K2,
+Q96R72,OR4K3,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 4K3,
+Q8NGD3,OR4K5,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 4K5,
+Q8NH42,OR4K13,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 4K13,
+Q8NGD5,OR4K14,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 4K14,
+Q8NH41,OR4K15,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 4K15,
+Q8NGC6,OR4K17,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 4K17,
+Q8NH43,OR4L1,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 4L1,
+Q8NGD0,OR4M1,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 4M1,
+Q8NGB6,OR4M2,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 4M2,
+Q8NGD1,OR4N2,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 4N2,
+Q8N0Y3,OR4N4,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 4N4,
+Q8IXE1,OR4N5,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 4N5,
+Q8NGL7,OR4P4,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 4P4,
+P0C623,OR4Q2,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 4Q2,
+Q8NH05,OR4Q3,Tmacro,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 4Q3,
+Q8NGB4,OR4S1,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 4S1,
+Q8NH73,OR4S2,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 4S2,
+Q8NH49,OR4X1,Tgray,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 4X1,
+Q8NGF9,OR4X2,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 4X2,
+Q8NGJ0,OR5A1,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 5A1,
+Q8NGI9,OR5A2,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 5A2,
+Q96R09,OR5B2,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 5B2,
+Q8NH48,OR5B3,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 5B3,
+Q96R08,OR5B12,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 5B12,
+Q8NGF7,OR5B17,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 5B17,
+A6NL26,OR5B21,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 5B21,
+Q8NGR4,OR5C1,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 5C1,
+Q8NGL4,OR5D13,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 5D13,
+Q8NGL3,OR5D14,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 5D14,
+Q8NGK9,OR5D16,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 5D16,
+Q8NGL1,OR5D18,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 5D18,
+O95221,OR5F1,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 5F1,
+P0C626,OR5G3,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 5G3,
+A6NKK0,OR5H1,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 5H1,
+Q8NGV7,OR5H2,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 5H2,
+Q8NGV6,OR5H6,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 5H6,
+Q13606,OR5I1,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 5I1,
+Q8NH18,OR5J2,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 5J2,
+Q8NHB7,OR5K1,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 5K1,
+Q8NHB8,OR5K2,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 5K2,
+A6NET4,OR5K3,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 5K3,
+A6NMS3,OR5K4,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 5K4,
+Q8NGL2,OR5L1,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 5L1,
+Q8NGL0,OR5L2,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 5L2,
+Q8NGP8,OR5M1,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 5M1,
+Q8NGP4,OR5M3,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 5M3,
+Q8NGP6,OR5M8,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 5M8,
+Q8NGP3,OR5M9,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 5M9,
+Q6IEU7,OR5M10,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 5M10,
+Q96RB7,OR5M11,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 5M11,
+Q8WZ92,OR5P2,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 5P2,
+Q8WZ94,OR5P3,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 5P3,
+Q8NH85,OR5R1,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 5R1,
+Q8NG75,OR5T1,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 5T1,
+Q8NGG2,OR5T2,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 5T2,
+Q8NGG3,OR5T3,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 5T3,
+Q9UGF6,OR5V1,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 5V1,
+Q8NH69,OR5W2,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 5W2,
+O95222,OR6A2,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 6A2,
+O95007,OR6B1,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 6B1,
+Q6IFH4,OR6B2,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 6B2,
+Q8NGW1,OR6B3,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 6B3,
+Q96RD1,OR6C1,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 6C1,
+Q9NZP2,OR6C2,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 6C2,
+Q9NZP0,OR6C3,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 6C3,
+Q8NGE1,OR6C4,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 6C4,
+A6NF89,OR6C6,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 6C6,
+Q8NGZ6,OR6F1,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 6F1,
+Q8NGC5,OR6J1,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 6J1,
+Q8NGY2,OR6K2,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 6K2,
+Q8NGY3,OR6K3,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 6K3,
+Q8NGW6,OR6K6,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 6K6,
+Q8NGM8,OR6M1,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 6M1,
+Q8NGY5,OR6N1,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 6N1,
+Q8NGY6,OR6N2,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 6N2,
+Q8NGX9,OR6P1,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 6P1,
+Q8NGQ2,OR6Q1,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 6Q1,
+Q8NH40,OR6S1,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 6S1,
+Q8NGN1,OR6T1,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 6T1,
+Q8N148,OR6V1,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 6V1,
+Q8NH79,OR6X1,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 6X1,
+Q8NGX8,OR6Y1,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 6Y1,
+Q8NGA2,OR7A2P,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Putative olfactory receptor 7A2,
+Q15622,OR7A5,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 7A5,
+O76100,OR7A10,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 7A10,
+O14581,OR7A17,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 7A17,
+O76099,OR7C1,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 7C1,
+O60412,OR7C2,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 7C2,
+Q96RA2,OR7D2,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 7D2,
+Q8NG98,OR7D4,Tgray,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 7D4,
+Q8NGA0,OR7G1,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 7G1,
+Q8NG99,OR7G2,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 7G2,
+Q8NG95,OR7G3,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 7G3,
+Q8NGG7,OR8A1,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 8A1,
+Q96RD0,OR8B2,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 8B2,
+Q8NGG8,OR8B3,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 8B3,
+Q96RC9,OR8B4,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 8B4,
+Q15620,OR8B8,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 8B8,
+Q8NGG6,OR8B12,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 8B12,
+Q8WZ84,OR8D1,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 8D1,
+Q9GZM6,OR8D2,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 8D2,
+Q8NGM9,OR8D4,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 8D4,
+Q15617,OR8G1,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 8G1,
+Q15614,OR8G2,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 8G2,
+Q8NG78,OR8G5,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 8G5,
+Q8NGG4,OR8H1,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 8H1,
+Q8N162,OR8H2,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 8H2,
+Q8N146,OR8H3,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 8H3,
+Q8N0Y5,OR8I2,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 8I2,
+Q8NGP2,OR8J1,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 8J1,
+Q8NGG1,OR8J2,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 8J2,
+Q8NGG0,OR8J3,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 8J3,
+Q8NGG5,OR8K1,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 8K1,
+Q8NH51,OR8K3,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 8K3,
+Q8NH50,OR8K5,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 8K5,
+Q8NH09,OR8S1,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 8S1,
+Q8NH10,OR8U1,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 8U1,
+P0C7N1,OR8U8,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 8U8,
+P0C7N5,OR8U9,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 8U9,
+Q8NGU1,OR9A1P,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Putative olfactory receptor 9A1,
+Q8NGT5,OR9A2,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 9A2,
+Q8NGU2,OR9A4,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 9A4,
+Q8NH87,OR9G1,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 9G1,
+Q8NGQ1,OR9G4,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 9G4,
+P0C7N8,OR9G9,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 9G9,
+Q8NGQ6,OR9I1,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 9I1,
+Q8NGE7,OR9K2,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 9K2,
+Q8NGQ5,OR9Q1,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 9Q1,
+Q8NGE9,OR9Q2,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Olfactory receptor 9Q2,
+O43613,HCRTR1,Tclin+,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Orexin receptor,,Orexin receptor type 1,peptide
+O43614,HCRTR2,Tclin+,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Orexin receptor,,Orexin receptor type 2,peptide
+Q8TDS5,OXER1,Tchem,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Leukotriene receptor,,Oxoeicosanoid receptor 1,Lipid
+Q96P68,OXGR1,Tgray,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Oxoglutarate receptor,,2-oxoglutarate receptor 1,Nucleotide-like
+P30559,OXTR,Tclin+,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Vasopressin and oxytocin receptor,,Oxytocin receptor,Peptide
+P47900,P2RY1,Tclin,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Purinoceptor,P2Y receptor,P2Y purinoceptor 1,Nucleotide-like
+P41231,P2RY2,Tclin+,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Purinoceptor,P2Y receptor,P2Y purinoceptor 2,Nucleotide-like
+P51582,P2RY4,Tclin,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Purinoceptor,P2Y receptor,P2Y purinoceptor 4,Nucleotide-like
+Q15077,P2RY6,Tchem,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Purinoceptor,P2Y receptor,P2Y purinoceptor 6,Nucleotide-like
+Q86VZ1,P2RY8,Tgray,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Purinoceptor,P2Y receptor,P2Y purinoceptor 8,Peptide
+O00398,P2RY10,Tgray,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Purinoceptor,P2Y receptor,Putative P2Y purinoceptor 10,Nucleotide-like
+Q96G91,P2RY11,Tchem,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Purinoceptor,P2Y receptor,P2Y purinoceptor 11,Nucleotide-like
+Q9H244,P2RY12,Tclin+,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Purinoceptor,P2Y receptor,P2Y purinoceptor 12,Nucleotide-like
+Q9BPV8,P2RY13,Tmacro,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Purinoceptor,P2Y receptor,P2Y purinoceptor 13,Nucleotide-like
+Q15391,P2RY14,Tchem,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Purinoceptor,P2Y receptor,P2Y purinoceptor 14,Nucleotide-like
+P41586,ADCYAP1R1,Tchem,Protein,GPCR,Class B Secretin like,Class B Receptor with Endogenous Ligand,VIP and PACAP receptor,,Pituitary adenylate cyclase-activating polypeptide type I receptor,Peptide
+P25116,F2R,Tclin+,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Proteinase-activated receptor,,Proteinase-activated receptor 1,Peptide
+P55085,F2RL1,Tchem,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Proteinase-activated receptor,,Proteinase-activated receptor 2,Peptide
+O00254,F2RL2,Tmacro,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Proteinase-activated receptor,,Proteinase-activated receptor 3,Peptide
+Q96RI0,F2RL3,Tmacro,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Proteinase-activated receptor,,Proteinase-activated receptor 4,Peptide
+Q9Y5Y4,PTGDR2,Tclin,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Prostanoid receptor,,Prostaglandin D2 receptor 2,Lipid
+Q13258,PTGDR,Tclin,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Prostanoid receptor,,Prostaglandin D2 receptor,Lipid
+P34995,PTGER1,Tclin+,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Prostanoid receptor,,Prostaglandin E2 receptor EP1 subtype,Lipid
+P43116,PTGER2,Tclin+,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Prostanoid receptor,,Prostaglandin E2 receptor EP2 subtype,Lipid
+P43115,PTGER3,Tclin+,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Prostanoid receptor,,Prostaglandin E2 receptor EP3 subtype,Lipid
+P35408,PTGER4,Tclin+,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Prostanoid receptor,,Prostaglandin E2 receptor EP4 subtype,Lipid
+P43088,PTGFR,Tclin+,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Prostanoid receptor,,Prostaglandin F2-alpha receptor,Lipid
+P43119,PTGIR,Tclin+,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Prostanoid receptor,,Prostacyclin receptor,Lipid
+Q8TCW9,PROKR1,Tchem,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Prokineticin receptor,,Prokineticin receptor 1,Peptide
+Q8NFJ6,PROKR2,Tmacro,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Prokineticin receptor,,Prokineticin receptor 2,Peptide
+P49683,PRLHR,Tmacro,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Prolactin-releasing peptide receptor,,Prolactin-releasing peptide receptor,Peptide
+Q8IYL9,GPR65,Tmacro,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Purinoceptor,,Psychosine receptor,Nucleotide-like
+P25105,PTAFR,Tclin,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Platelet-activating factor receptor,,Platelet-activating factor receptor,Lipid
+Q03431,PTH1R,Tclin+,Protein,GPCR,Class B Secretin like,,Parathyroid hormone receptor,,Parathyroid hormone/parathyroid hormone-related peptide receptor,
+P49190,PTH2R,Tclin,Protein,GPCR,Class B Secretin like,,Parathyroid hormone receptor,,Parathyroid hormone 2 receptor,
+Q96P65,QRFPR,Tchem,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,,,Pyroglutamylated RFamide peptide receptor,Peptide
+Q8NFJ5,GPRC5A,Tmacro,Protein,GPCR,Class C Metabotropic glutamate/pheromone,Class C Orphan,,,Retinoic acid-induced protein 3,
+P47804,RGR,Tmacro,Protein,GPCR,Class A Rhodopsin like,,,,RPE-retinal G protein-coupled receptor,
+Q9NSD7,RXFP3,Tchem,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Relaxin family peptide receptor,,Relaxin-3 receptor 1,Peptide
+Q8TDU9,RXFP4,Tchem,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Relaxin family peptide receptor,,Relaxin-3 receptor 2,Peptide
+Q9HBX9,RXFP1,Tchem,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Relaxin family peptide receptor,,Relaxin receptor 1,Peptide
+Q8WXD0,RXFP2,Tchem,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Relaxin family peptide receptor,,Relaxin receptor 2,Peptide
+P21453,S1PR1,Tclin+,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Lysophospholipid (S1P) receptor,,Sphingosine 1-phosphate receptor 1,Lipid
+O95136,S1PR2,Tclin+,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Lysophospholipid (S1P) receptor,,Sphingosine 1-phosphate receptor 2,Lipid
+Q99500,S1PR3,Tclin+,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Lysophospholipid (S1P) receptor,,Sphingosine 1-phosphate receptor 3,Lipid
+O95977,S1PR4,Tclin+,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Lysophospholipid (S1P) receptor,,Sphingosine 1-phosphate receptor 4,Lipid
+Q9H228,S1PR5,Tclin+,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Lysophospholipid (S1P) receptor,,Sphingosine 1-phosphate receptor 5,Lipid
+P47872,SCTR,Tclin+,Protein,GPCR,Class B Secretin like,,Glucagon receptor,,Secretin receptor,
+Q99835,SMO,Tclin+,Protein,GPCR,Class F Frizzled-type,,,,Smoothened homolog,
+P30872,SSTR1,Tclin+,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Somatostatin receptor,,Somatostatin receptor type 1,Peptide
+P30874,SSTR2,Tclin+,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Somatostatin receptor,,Somatostatin receptor type 2,Peptide
+P32745,SSTR3,Tclin+,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Somatostatin receptor,,Somatostatin receptor type 3,Peptide
+P31391,SSTR4,Tclin+,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Somatostatin receptor,,Somatostatin receptor type 4,Peptide
+P35346,SSTR5,Tclin+,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Somatostatin receptor,,Somatostatin receptor type 5,Peptide
+Q9BXA5,SUCNR1,Tchem,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Succinate receptor,,Succinate receptor 1,Carboxylic acid
+Q9NYW0,TAS2R10,Tdark,Protein,GPCR,Class A Rhodopsin like,Taste 2 receptor,,,Taste receptor type 2 member 10,
+Q9NYV9,TAS2R13,Tdark,Protein,GPCR,Class A Rhodopsin like,Taste 2 receptor,,,Taste receptor type 2 member 13,
+Q9NYV8,TAS2R14,Tdark,Protein,GPCR,Class A Rhodopsin like,Taste 2 receptor,,,Taste receptor type 2 member 14,
+Q9NYV7,TAS2R16,Tmacro,Protein,GPCR,Class A Rhodopsin like,Taste 2 receptor,,,Taste receptor type 2 member 16,
+P59542,TAS2R19,Tdark,Protein,GPCR,Class A Rhodopsin like,Taste 2 receptor,,,Taste receptor type 2 member 19,
+P59543,TAS2R20,Tdark,Protein,GPCR,Class A Rhodopsin like,Taste 2 receptor,,,Taste receptor type 2 member 20,
+P59541,TAS2R30,Tdark,Protein,GPCR,Class A Rhodopsin like,Taste 2 receptor,,,Taste receptor type 2 member 30,
+P59538,TAS2R31,Tgray,Protein,GPCR,Class A Rhodopsin like,Taste 2 receptor,,,Taste receptor type 2 member 31,
+P59533,TAS2R38,Tmacro,Protein,GPCR,Class A Rhodopsin like,Taste 2 receptor,,,Taste receptor type 2 member 38,
+P59534,TAS2R39,Tgray,Protein,GPCR,Class A Rhodopsin like,Taste 2 receptor,,,Taste receptor type 2 member 39,
+P59535,TAS2R40,Tdark,Protein,GPCR,Class A Rhodopsin like,Taste 2 receptor,,,Taste receptor type 2 member 40,
+P59536,TAS2R41,Tdark,Protein,GPCR,Class A Rhodopsin like,Taste 2 receptor,,,Taste receptor type 2 member 41,
+Q7RTR8,TAS2R42,Tdark,Protein,GPCR,Class A Rhodopsin like,Taste 2 receptor,,,Taste receptor type 2 member 42,
+P59537,TAS2R43,Tgray,Protein,GPCR,Class A Rhodopsin like,Taste 2 receptor,,,Taste receptor type 2 member 43,
+P59540,TAS2R46,Tdark,Protein,GPCR,Class A Rhodopsin like,Taste 2 receptor,,,Taste receptor type 2 member 46,
+P59544,TAS2R50,Tdark,Protein,GPCR,Class A Rhodopsin like,Taste 2 receptor,,,Taste receptor type 2 member 50,
+P59551,TAS2R60,Tdark,Protein,GPCR,Class A Rhodopsin like,Taste 2 receptor,,,Taste receptor type 2 member 60,
+Q9NYW7,TAS2R1,Tgray,Protein,GPCR,Class A Rhodopsin like,Taste 2 receptor,,,Taste receptor type 2 member 1,
+Q9NYW6,TAS2R3,Tgray,Protein,GPCR,Class A Rhodopsin like,Taste 2 receptor,,,Taste receptor type 2 member 3,
+Q9NYW5,TAS2R4,Tmacro,Protein,GPCR,Class A Rhodopsin like,Taste 2 receptor,,,Taste receptor type 2 member 4,
+Q9NYW4,TAS2R5,Tdark,Protein,GPCR,Class A Rhodopsin like,Taste 2 receptor,,,Taste receptor type 2 member 5,
+Q9NYW3,TAS2R7,Tdark,Protein,GPCR,Class A Rhodopsin like,Taste 2 receptor,,,Taste receptor type 2 member 7,
+Q9NYW2,TAS2R8,Tdark,Protein,GPCR,Class A Rhodopsin like,Taste 2 receptor,,,Taste receptor type 2 member 8,
+Q9NYW1,TAS2R9,Tdark,Protein,GPCR,Class A Rhodopsin like,Taste 2 receptor,,,Taste receptor type 2 member 9,
+P21731,TBXA2R,Tclin,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Prostanoid receptor,,Thromboxane A2 receptor,Lipid
+Q96RJ0,TAAR1,Tclin+,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Trace amine receptor,,Trace amine-associated receptor 1,Amine
+Q9P1P5,TAAR2,Tgray,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Trace amine receptor,,Trace amine-associated receptor 2,Amine
+Q9P1P4,TAAR3,Tdark,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Trace amine receptor,,Putative trace amine-associated receptor 3,Amine
+O14804,TAAR5,Tmacro,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Trace amine receptor,,Trace amine-associated receptor 5,Amine
+Q96RI8,TAAR6,Tmacro,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Trace amine receptor,,Trace amine-associated receptor 6,Amine
+Q969N4,TAAR8,Tmacro,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Trace amine receptor,,Trace amine-associated receptor 8,Amine
+Q96RI9,TAAR9,Tdark,Protein,GPCR,Class A Rhodopsin like,Class A Orphan,,,Trace amine-associated receptor 9,
+Q86W33,TPRA1,Tdark,Protein,GPCR,7TM orphan receptors,,UPF0359 family,,Transmembrane protein adipocyte-associated 1,
+P34981,TRHR,Tclin+,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Thyrotropin-releasing hormone receptor,,Thyrotropin-releasing hormone receptor,Amine
+Q7RTX1,TAS1R1,Tmacro,Protein,GPCR,Class C Metabotropic glutamate/pheromone,Taste 1 receptor,,,Taste receptor type 1 member 1,
+Q8TE23,TAS1R2,Tmacro,Protein,GPCR,Class C Metabotropic glutamate/pheromone,Taste 1 receptor,,,Taste receptor type 1 member 2,
+Q7RTX0,TAS1R3,Tmacro,Protein,GPCR,Class C Metabotropic glutamate/pheromone,Taste 1 receptor,,,Taste receptor type 1 member 3,
+P16473,TSHR,Tmacro,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Glycoprotein hormone receptor,,Thyrotropin receptor,Hormone protein
+Q9UKP6,UTS2R,Tchem,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Urotensin receptor,,Urotensin-2 receptor,Peptide
+P37288,AVPR1A,Tclin+,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Vasopressin and oxytocin receptor,,Vasopressin V1a receptor,Peptide
+P47901,AVPR1B,Tclin+,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Vasopressin and oxytocin receptor,,Vasopressin V1b receptor,Peptide
+P30518,AVPR2,Tclin+,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Vasopressin and oxytocin receptor,,Vasopressin V2 receptor,Peptide
+P32241,VIPR1,Tchem,Protein,GPCR,Class B Secretin like,Class B Receptor with Endogenous Ligand,VIP and PACAP receptor,,Vasoactive intestinal polypeptide receptor 1,Peptide
+P41587,VIPR2,Tchem,Protein,GPCR,Class B Secretin like,Class B Receptor with Endogenous Ligand,VIP and PACAP receptor,,Vasoactive intestinal polypeptide receptor 2,Peptide
+Q9GZP7,VN1R1,Tgray,Protein,GPCR,Class A Rhodopsin like,Vomeronasal receptor,,,Vomeronasal type-1 receptor 1,
+Q8NFZ6,VN1R2,Tdark,Protein,GPCR,Class A Rhodopsin like,Vomeronasal receptor,,,Vomeronasal type-1 receptor 2,
+Q9BXE9,VN1R3,Tdark,Protein,GPCR,Class A Rhodopsin like,Vomeronasal receptor,,,Vomeronasal type-1 receptor 3,
+Q7Z5H5,VN1R4,Tdark,Protein,GPCR,Class A Rhodopsin like,Vomeronasal receptor,,,Vomeronasal type-1 receptor 4,
+Q7Z5H4,VN1R5,Tdark,Protein,GPCR,Class A Rhodopsin like,Vomeronasal receptor,,,Vomeronasal type-1 receptor 5,
+Q8TDU5,VN1R17P,Tdark,Protein,GPCR,Class A Rhodopsin like,Vomeronasal receptor,,,Putative vomeronasal receptor-like protein 4,
+P46094,XCR1,Tmacro,Protein,GPCR,Class A Rhodopsin like,Class A Receptor with Endogenous Ligand,Chemokine receptor,,Chemokine XC receptor 1,Peptide
+Q8NH95,OR13C6P,Tdark,Protein,GPCR,Class A Rhodopsin like,Olfactory Receptor,,,Putative olfactory receptor 13C6,
